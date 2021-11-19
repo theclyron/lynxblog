@@ -1,3 +1,3 @@
-# blog-project
+# Lynxmic website (New Lynxmic Blog)
 
-Check back later for readme.
+Work-in-progress. Please check back later.
