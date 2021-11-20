@@ -1,8 +1,0 @@
-@font-face {
-    font-family: "century-gothic";
-    src: url("https://lynxmic.github.io/font/century-gothic/GOTHIC.TTF") format('truetype');
-}
-
-p {
-    font-family: century-gothic;
-}
