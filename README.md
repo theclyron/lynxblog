@@ -1,3 +1,3 @@
-# Lynxmic website (New Lynxmic Blog)
+# Lynxmic Blog
 
-Work-in-progress. Please check back later.
+This repository stores the files for the Jekyll-powered Lynxmic Blog, and mainly exists so it can be hosted on GitHub Pages.
