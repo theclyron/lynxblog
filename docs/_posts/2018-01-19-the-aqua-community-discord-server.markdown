@@ -20,12 +20,12 @@ The BS Community just started dying in like November 2017.
 [Aqua Community][aqua]
 
 [Website][Website]
-[Twitter][Twitter-aqua]
+<br>[Twitter][Twitter-aqua]
 
 [The BS Community][bs]
 
 [Twitter][Twitter-bs]
-[GitHub][GitHub]
+<br>[GitHub][GitHub]
 
 Thanks for reading. See you in the next blog post!
 -BriciWorld
