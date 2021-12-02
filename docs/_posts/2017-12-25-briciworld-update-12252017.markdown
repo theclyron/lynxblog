@@ -6,7 +6,7 @@ date:   25 December 2017
 author: Lynxmic
 description: ""
 ---
-<center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/sapphire v2 cover.jpg"></center>
+<center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/bwchristmas2017bg.jpg"></center>
 Hello there, welcome to a new blog post! These days until 2018, it will happen a lot of things, so I'm going to create this. I have a lot of stuff to say here.
 
 ### 1. BriciHub
