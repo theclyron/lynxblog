@@ -72,6 +72,10 @@
     <br>
     <p>{{ content }}</p>
     <br>
+      <center><h4>Share this post <span class="badge badge-light">Beta</span></h4> <a onclick="copyToClipboard()" title="Copy to clipboard"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fas fa-link fa-2x"></i></a>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}%20{{ site.url }}{{ page.url }}" title="Share this post on Twitter"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fab fa-twitter fa-2x"></i></a>
+    </center>
+    <br>
  <footer class="bg-dark text-center text-lg-start">
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
       © {{ site.currentyear }} <a class="text-white" href="https://www.youtube.com/channel/UC_qybz4t70ZYp_2vTd8S-oQ">Lynxmic</a>. Powered by Jekyll
