@@ -1,0 +1,36 @@
+---
+# Use ### to start a subheading in the blog post.
+layout: post
+title:  "BriciWorld Update (12/25/2017)"
+date:   25 December 2017
+author: Lynxmic
+description: ""
+---
+<center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/bwchristmas2017bg.jpg"></center>
+Hello there, welcome to a new blog post! These days until 2018, it will happen a lot of things, so I'm going to create this. I have a lot of stuff to say here.
+
+### 1. BriciHub
+BriciHub, a thing that launched in the first day of December, this year, is gonna rename to BriciStudios. Everything is the same, only the name change. With that, new things are gonna be in BriciStudios, like BW-Tech (which we will discuss in this blog post about). Also, it will have a website, where you see everything that's a part of BriciStudios.
+
+### 2. BW-Tech
+This new YouTube channel of BriciWorld, that will be a part of BriciStudios, is a channel that will post tech content. It aleardy has a video. If you want to go to it, go [here][1]. Not every tech video will be posted there, some of them will be posted in the BriciWorld channel. A series will be planned on the BriciWorld channel for mid-January 2018.
+
+### 3. The BS Community
+The server name will be changed to another one, which will be revealed after Christmas. To see it, feel free to join the Discord server [here][2].
+
+#### 3.1. The Techseasons Lounge
+The server has merged with The BS Community, as The Techseasons Lounge is too inactive and why would we need a second server?
+
+With that,  The Techseasons Lounge WILL no longer be a part of BriciHub (now as BriciStudios).
+It's not deleted, it's archived, that's why the invite to it no longer works/says expired.
+
+### 4. New branding
+After christmas, a new BriciWorld will be revealed. It will be no longer blue. There will be also new intro and outro for the BriciWorld channel.
+
+Thanks for reading this post, hope to see you soon this year (or in 2018). 
+
+Merry Christmas!
+-BriciWorld
+
+[1]: https://www.youtube.com/channel/UCS2LDjMmFfgNqaPNVkkEOhA
+[2]: https://discord.gg/y36uj4u
