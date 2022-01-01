@@ -20,7 +20,7 @@
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lynxmic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-currentyear: "2021"
+currentyear: "2022"
 paginate: 10
 paginate_path: "/main/pages/page:num/"
 
