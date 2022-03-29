@@ -57,11 +57,28 @@
     h5, p {
     font-family: "segoe-ui"
     }
+    
+        #textbox {
+    display: flex;
+}
+.alignleft {
+    flex: 1;
+    text-align: left;
+}
+.aligncenter {
+    flex: 35;
+    text-align: center;
+}
+.alignright {
+    flex: 1;
+    text-align: right;
+    padding-right: 10px;
+}
     </style>
 </head>
 
 <body>
-  <div style="background-image: url('https://lynxmic.github.io/img/bg.png');">
+  <div style="background-image: url('https://lynxmic.github.io/img/bg alt.png');">
     <div class="d-flex flex-row flex-center">
       <div class="p-2"><a href="{{ site.url }}"><img width="412" height="113" src="https://lynxmic.github.io/img/logo2.png"></a></div>
   </div>
@@ -70,17 +87,29 @@
 <div class="bg-dark">
     <div class="text-center" style="background-color: rgba(0, 0, 0, 0.2);">
       <br>
-      <h3>{{ page.title }}</h3>
-      <h6>{{ page.author }} &#183; {{ page.date | date_to_string }}</h6>
+      <div id="textbox">
+        <h3 class="alignleft"></h3>
+        <h3 class="aligncenter">{{ page.title }}</h3>
+        <a class="alignright" data-toggle="dropdown"
+       aria-haspopup="true" aria-expanded="false"><i class="fas fa-share-alt fa-2x"></i></a>
+     
+     <div class="dropdown-menu">
+       <a class="dropdown-item" href="https://twitter.com/intent/tweet?text={{ page.title }}%20{{ site.url }}{{ page.url }}"><i class="fab fa-twitter fa-1x"></i> Tweet</a>
+       <a class="dropdown-item" onclick="copyToClipboard()"><i class="fas fa-link fa-1x"></i> Copy URL to clipboard</a>
+       <div class="dropdown-divider"></div>
+       <a class="dropdown-item disabled">More coming soon!</a>
+     </div>
+    </div>
+    <div id="textbox">
+      <h6 class="alignleft"></h6>
+      <h6 class="aligncenter">{{ page.author }} &#183; {{ page.date | date_to_string }}</h6>
+      <h6 class="alignright"></h6>
+      </div>
       <br>
     </div>
   </div>
     <br>
-    <p>{{ content }}</p>
-    <br>
-    <center><h4>Share this post <span class="badge badge-light">Beta</span></h4> <a onclick="copyToClipboard()" title="Copy to clipboard"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fas fa-link fa-2x"></i></a>
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}%20{{ site.url }}{{ page.url }}" title="Share this post on Twitter"><i style="margin-right: 0.5em; color: #EEEEEE;" class="fab fa-twitter fa-2x"></i></a>
-    </center>
+  <p>{{ content }}</p>
     <br>
  <footer class="bg-dark text-center text-lg-start">
     <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
