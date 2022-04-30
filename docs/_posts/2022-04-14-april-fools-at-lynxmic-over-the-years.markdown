@@ -55,6 +55,8 @@ Also, last Monday, you may or may not remember that I've done a LynxLIVE on Wind
 
 Future LynxLIVE ideas right now include revisiting Windows 10 Creators Update (this update to W10 was released on Vista's EOS date; 11 April 2017). I'm now in spring break so this means, more time to focus on the Lynxmic project for this second half of April. Including on new videos (the time has come to publish a new video anyways, because the last was in early March).
 
+UPDATE 30.04.2022: No longer considering a W10 CU stream, due to various reasons.
+
 [1]: https://lynxmic.github.io/2018/01/19/the-aqua-community-discord-server.html
 [2]: https://discord.io/Lynxmic
 [3]: https://twitter.com/Lynxmic
