@@ -2,7 +2,20 @@
 permalink: /404.html
 layout: oops
 ---
-   <center><h4><i class="fas fa-times-circle fa-1x"></i> This page does not exist</h4></center>
-      <br>
-      <center><a type="button" class="btn btn-outline-light" href="{{ site.url }}"><i class="fas fa-home"></i> Back to homepage</a></center>
-
+<div class="box has-background-dark">
+  <section class="section">
+    <div class="columns has-text-light">
+      <div class="column">
+    <h1 class="title has-text-light">404 Not Found</h1>
+    <h2 class="subtitle has-text-light">This page does not exist.</h2>
+  </div>
+  <div class="column is-narrow is-hidden-mobile">
+    <i class="fas fa-times-circle fa-4x"></i>
+  </div>
+  </div>
+  </section>
+   </div>
+   <div class="buttons is-centered">
+      <a class="button is-rounded has-background-dark has-text-light" href="{{ site.url }}/posts">View all blog posts</a>
+      <a class="button is-rounded has-background-dark has-text-light" href="{{ site.url }}">Go to homepage</a>
+    </div>
