@@ -1,12 +1,11 @@
 ---
-# Use ### to start a subheading in the blog post.
+# Use ## to start a subheading in the blog post.
 layout: post
 title:  "Merger of BriciWorld Lounge and Aqua Community"
 date:   10 February 2018
 author: Lynxmic
-description: ""
+image: http://lynxmic.github.io/img/postmedia/aqua community & bwl.jpg # default: https://lynxmic.github.io/img/placeholder.png
 ---
-<center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/aqua community & bwl.jpg"></center>
 Hello there. Today at 20:45 PM EET BriciWorld Lounge, a server created in April 2017 and remade in July 2017 will merge with Aqua Community as it is dying since November 2017.
 
 That means BriciWorld Lounge will be archived (aka the chats will be read-only).
