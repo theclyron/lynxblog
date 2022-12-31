@@ -1,10 +1,10 @@
 ---
-# Use ### to start a subheading in the blog post.
+# Use ## to start a subheading in the blog post.
 layout: post
 title: "The future of the blog and other updates"
 date: 6 August 2022
 author: Lynxmic
-description: "Updates."
+image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
 ---
 No intro this time, let's get into the subject of the blog post.
 
@@ -14,7 +14,7 @@ That said, if Twitter will release its [new Notes feature][1] more widely, and i
 
 So... yeah. To end the blog post, I want to share some updates with y'all while I'm still writing this: Some minor updates to the blog layout while inactive in blogging these past almost 4 months include a new favicon (switched from the Lynxmic logo to the pen), and the removal of all references to the r/Lynxmic subreddit, which was closed down 2 weeks ago due to inactivity and me not even caring of it. Besides updates on the blog, I switched yesterday to a new internet plan with faster speeds (even faster than what I have in Romania at home); if you follow me on Twitter, you may already know this:
 
-<center><blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🆕 ✨<br><br>(have to say, it&#39;s much faster than what I have in Romania at home) <a href="https://t.co/GcUuCyigy7">pic.twitter.com/GcUuCyigy7</a></p>&mdash; Lynxmic (@Lynxmic) <a href="https://twitter.com/Lynxmic/status/1555631452045426689?ref_src=twsrc%5Etfw">August 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
+<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">🆕 ✨<br><br>(have to say, it&#39;s much faster than what I have in Romania at home) <a href="https://t.co/GcUuCyigy7">pic.twitter.com/GcUuCyigy7</a></p>&mdash; Lynxmic (@Lynxmic) <a href="https://twitter.com/Lynxmic/status/1555631452045426689?ref_src=twsrc%5Etfw">August 5, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I also recently made a [Twitlonger post][2] where I stated I'd take a break from making YouTube videos for the entirety of August 2022. I want to announce that this will no longer apply. This week I'll be going elsewhere, and I'll be left only with my mobile data (limited data as I'm roaming), so you obviously can't expect anything from me on YT this week (at the same time. you should expect little activity from me elsewhere, as I'm conserving data). But next week, I'll be going to start working on new videos, being especially motivated to do this by the speeds of my new internet connection in Spain, which allow me to prepare new videos/streams much faster. Also next week, LynxLIVEs will be resuming (and will most likely be never in hiatus for a very long time from now on), you may expect at least one LynxLIVE in the second half of this month.
 
