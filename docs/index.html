@@ -1,18 +1,68 @@
 ---
 layout: homepage
 ---
-<main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <div class="home">
-          <ul>
-            {% for post in site.posts %}
-              <li>
-                <h3><a class="text-white" href="{{ post.url }}">{{ post.title }}</a> 
-                  <h6>{{ post.author }} &#183; {{ post.date | date_to_string }}</h6></h3>
-                <p>{{ post.description }}</p>
-              </li>
-            {% endfor %}
-            <br>
+<div class="box has-background-dark">
+<section class="section">
+  <div class="columns has-text-light">
+    <div class="column">
+  <h1 class="title has-text-light">Blog posts</h1>
+  <h2 class="subtitle has-text-light"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}</h2>
+</div>
+<div class="column is-narrow is-hidden-mobile">
+  <i class="fas fa-pen fa-4x"></i>
+</div>
+</div>
+</section>
+</div>
+<br>
+<div class="container">
+  {% for post in paginator.posts %}
+          <div class="box has-background-dark has-text-light">
+            <div class="columns">
+              <div class="column is-one-third">
+                <figure class="image is-16by9">
+                  <img src="{{ post.image }}" alt="{{ post.title }}">
+                </figure>
+                </div>
+              <div class="column">
+            <p class="title is-4 has-text-light">{{ post.title }}</p>
+            <p class="subtitle is-6 has-text-light">{{ post.author }} &#183; {{ post.date | date_to_string }}</p>
+          <p>{{ post.content | truncatewords: 65 }}</p>
             </div>
-      </div>
-    </main>
+            <div class="column is-narrow">
+              <a class="button is-rounded has-background-dark has-text-light" href="{{ post.url }}">Read post</a>
+            </div>
+            </div>
+          </div>
+    {% endfor %}
+
+    {% if paginator.total_pages > 1 %}
+    <div class="pagination">
+      <nav class="pagination is-rounded" role="navigation" aria-label="pagination">
+        {% if paginator.previous_page %}
+        <a class="pagination-previous has-text-light" href="{{ paginator.previous_page_path | relative_url }}">Previous page</a>
+        {% else %}
+        <button class="pagination-previous is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page">Previous page</button>
+        {% endif %}
+
+        {% if paginator.next_page %}
+        <a class="pagination-next has-text-light" href="{{ paginator.next_page_path | relative_url }}">Next page</a>
+        {% else %}
+        <button class="pagination-next is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the last page">Next page</button>
+        {% endif %}
+        
+        <ul class="pagination-list">
+          {% for page in (1..paginator.total_pages) %}
+          {% if page == paginator.page %}
+          <li><a class="pagination-link is-current" aria-current="page">{{ page }}</a></li>
+          {% elsif page == 1 %}
+          <li><a class="pagination-link has-text-light" href="{{ '/' | relative_url }}">{{ page }}</a></li>
+          {% else %}
+          <li><a class="pagination-link has-text-light" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+        </ul>
+      </nav>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+    </div>
