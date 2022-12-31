@@ -1,28 +1,28 @@
 ---
-# Use ### to start a subheading in the blog post.
+# Use ## to start a subheading in the blog post.
 layout: post
 title:  "Changes incoming to BriciWorld.ml + stuffs to say"
 date:   7 November 2017
 author: Lynxmic
-description: ""
+image: http://lynxmic.github.io/img/postmedia/opera_2017-11-07_18-30-46.png # default: https://lynxmic.github.io/img/placeholder.png
 ---
 Hey everyone,
 
 My website, BriciWorld.ml is going to have some changes tomorrow. Here are the list of changes:
 
-### The actual major change to the website
+## The actual major change to the website
 
 I don't know if you have waited so long for this feature, but finally I have started active development on a thing called "Dark Mode", or "Night Mode", whatever. This allows you to browse BriciWorld.ml when it's night, or if the normal mode hurts your eyes. Here is a sneak peek of the feature. (It's not public for now)
 <center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/opera_2017-11-07_18-30-46.png"></center>
 
-### Other small changes list
+## Other small changes list
 
 The website now has updated links.
 New page (with 2 other pages in menu). This is a rewrite of the Discord server website. [Check it out here][1].
 Nothing very special on the surface!
 So that's all for these changes...
 
-### In other news
+## In other news
 
 What happened to my PC?
 Well, yesterday my PC/laptop had a white line, and a small part of my screen is cracked somehow. 
