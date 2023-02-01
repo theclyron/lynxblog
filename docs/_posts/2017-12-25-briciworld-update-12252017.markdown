@@ -5,6 +5,7 @@ title:  "BriciWorld Update (12/25/2017)"
 date:   25 December 2017
 author: Lynxmic
 image: http://lynxmic.github.io/img/postmedia/bwchristmas2017bg.jpg # default: https://lynxmic.github.io/img/placeholder.png
+alt: BriciWorld Christmas background
 ---
 Hello there, welcome to a new blog post! These days until 2018, it will happen a lot of things, so I'm going to create this. I have a lot of stuff to say here.
 
