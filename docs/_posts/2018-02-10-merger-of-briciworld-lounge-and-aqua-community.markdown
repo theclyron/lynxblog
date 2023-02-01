@@ -5,6 +5,7 @@ title:  "Merger of BriciWorld Lounge and Aqua Community"
 date:   10 February 2018
 author: Lynxmic
 image: http://lynxmic.github.io/img/postmedia/aqua community & bwl.jpg # default: https://lynxmic.github.io/img/placeholder.png
+alt: The server icons of BriciWorld Lounge and Aqua Community, with a merge icon between them.
 ---
 Hello there. Today at 20:45 PM EET BriciWorld Lounge, a server created in April 2017 and remade in July 2017 will merge with Aqua Community as it is dying since November 2017.
 
