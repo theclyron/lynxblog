@@ -5,6 +5,7 @@ title: "Concluding Summer 2022 and looking forward to Fall"
 date: 2 September 2022
 author: Lynxmic
 image: https://lynxmic.github.io/img/postmedia/header%20summer%202022.png # default: https://lynxmic.github.io/img/placeholder.png
+alt: The Lynxmic header for Summer 2022.
 ---
 Welcome to yet another post on this blog where I just share updates, because otherwise I have no motivation at all to write a single blog post. Explaining the activity of the Jekyll-powered Lynxmic Blog so far this year. Speaking of years, we're already in September, which means there's only less than 4 months left to the end of the year. In addition, this means Summer 2022 is coming to an end soon.
 
