@@ -5,6 +5,7 @@ title: "Windows EOS videos: analytics and impact on channel growth"
 date: 14 January 2023
 author: Lynxmic
 image: https://lynxmic.github.io/img/postmedia/17.png # default: https://lynxmic.github.io/img/placeholder.png
+alt: The thumbnail for Goodbye Windows 7 in the left and the thumbnail for Goodbye Windows 8.1 in the right.
 ---
 It's only mid-January and this is already the second blog post of 2023. The motivational effect of the Bulma redesign of this blog is showing. Anyways, this blog post will be focused on the main channel, mainly on the two Windows End of Support videos I've made for Windows 7 and 8.1. Speaking of Windows 7, a fun fact: the EOS was exactly three years ago today (exclucing ESU). Time sure does fly, right?
 
