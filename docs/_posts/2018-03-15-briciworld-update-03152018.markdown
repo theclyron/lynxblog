@@ -5,6 +5,7 @@ title:  "BriciWorld Update (03/15/2018)"
 date:   15 March 2018
 author: Lynxmic
 image: http://lynxmic.github.io/img/postmedia/sapphire v2 cover.jpg # default: https://lynxmic.github.io/img/placeholder.png
+alt: Sapphire bot's birdsite header as of March 2018.
 ---
 Hello my fellow readers. Today we'll cover everything that happened ever since the last BriciWorld Update post, which was in christmas.
 
