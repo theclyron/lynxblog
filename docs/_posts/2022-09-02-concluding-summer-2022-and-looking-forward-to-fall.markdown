@@ -11,8 +11,11 @@ Welcome to yet another post on this blog where I just share updates, because oth
 
 And the fact Summer 2022 is coming to an end means some updates too. Videos that came out throughout this summer have contained a motion background (for the first time since late 2018/early 2019) of a sea (because after all, it was the summer season, right?). A still-frame of the motion background was used as the background of the Lynxmic social media headers as well. Now you may or may know about this, but this special version of the Lynxmic branding used during the summer (from 2021 onwards) was always meant to be used between mid-June and the date when school starts in Romania in September. However, this year I'll be making an exception on when the summer background should be switched back to the main background, because this year school in Romania starts a week earlier than last year. That is, on 5 September. In fact, school is starting earlier than it would usually do in this country, the tradition being 15 September. I want to announce that the summer version of the branding will remain around this year until 15 September, after which it will be reverted.
 
-<center><img width="620" height="348" src="http://lynxmic.github.io/img/postmedia/header summer 2022.png"></center>
-<center>The Lynxmic header for Summer 2022.</center>
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/header summer 2022.png">
+<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/header summer 2022.png">
+<p>The Lynxmic header for Summer 2022.</p>
+</div>
 
 ## Regarding the new video schedule
 You may have been noticed that since late August, there has been a video coming out every Saturday. I can confirm this, because the new thumbnail layout, together with video ideas that came in my mind during the time I took a break from YT (first half of August), have gave me enough motivation to start focusing on video projects more, allowing me to post one (or sometimes even two) videos per week. What also helped get me here is my IdeaPad 3, which is more powerful than my previous main computer (my G50-70) despite having an i3 instead of an i5 like the G50-70. Until now, I posted videos only at random times, whenever I felt like to, whenever I had free time, and whenever I had some video idea. Two videos came out under the new schedule so far and another two were already finished and uploaded to YT by the time I'm writing this blog post, the first coming tomorrow and the second next week. Even more are planned; if you have a suggestion for a video that you want to see on the Lynxmic channel, you may submit it to [the video idea form][1].
