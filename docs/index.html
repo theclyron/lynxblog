@@ -46,15 +46,19 @@ title: Home
     <div class="pagination">
       <nav class="pagination is-rounded" role="navigation" aria-label="pagination">
         {% if paginator.previous_page %}
-        <a class="pagination-previous has-text-light" href="{{ paginator.previous_page_path | relative_url }}">Previous page</a>
+        <a class="pagination-previous has-text-light is-hidden-mobile" href="{{ paginator.previous_page_path | relative_url }}">Previous page</a>
+        <a class="pagination-previous has-text-light is-hidden-widescreen" href="{{ paginator.previous_page_path | relative_url }}"><i class="fas fa-chevron-left"></i></a>
         {% else %}
-        <button class="pagination-previous is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page">Previous page</button>
+        <button class="pagination-previous is-disabled is-hidden-mobile" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page">Previous page</button>
+        <button class="pagination-previous is-disabled is-hidden-widescreen" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page"><i class="fas fa-chevron-left"></i></button>
         {% endif %}
 
         {% if paginator.next_page %}
-        <a class="pagination-next has-text-light" href="{{ paginator.next_page_path | relative_url }}">Next page</a>
+        <a class="pagination-next has-text-light is-hidden-mobile" href="{{ paginator.next_page_path | relative_url }}">Next page</a>
+        <a class="pagination-next has-text-light is-hidden-widescreen" href="{{ paginator.next_page_path | relative_url }}"><i class="fas fa-chevron-right"></i></a>
         {% else %}
-        <button class="pagination-next is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the last page">Next page</button>
+        <button class="pagination-next is-disabled is-hidden-mobile" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page">Next page</button>
+        <button class="pagination-next is-disabled is-hidden-widescreen" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page"><i class="fas fa-chevron-right"></i></button>
         {% endif %}
         
         <ul class="pagination-list">
