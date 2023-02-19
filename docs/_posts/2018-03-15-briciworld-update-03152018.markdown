@@ -21,7 +21,10 @@ If you wish to join the server and give a opinion in it, [click here][server].
 
 ## 3. BriciStudios Website is started.
 
-<center><img style="max-width: 45%; height: auto;" src="http://lynxmic.github.io/img/postmedia/chrome_2018-03-15_16-42-17.png"></center>
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="45%" height="auto" src="http://lynxmic.github.io/img/postmedia/chrome_2018-03-15_16-42-17.png">
+<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/chrome_2018-03-15_16-42-17.png">
+</div>
 
 Yes, I finally managed to code the website after a while. The website is still in construction and it may have bugs. If you have discovered a problem in the website (bricistudios.ml) don't hesitate to [join the Discord server][server2] and report it to me (BriciWorld#1434 is my Discord tag). You can check out the website [here][bricistudios] and give a opinion on it. Its code will probably be on GitHub (not sure) when it's done.
 
