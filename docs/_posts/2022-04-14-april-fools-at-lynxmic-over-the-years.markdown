@@ -5,14 +5,17 @@ title: "April Fools at Lynxmic over the years + announcements"
 date: 14 April 2022
 author: Lynxmic
 image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
+alt:
 ---
 "Hello this is Lynxmic and welcome to this blog post. This is the first blog post of 2022. Now to the blog post!!!"
 
 Okay, okay, that was only a reference to the [first blog post of 2018][1], where I talked about my Discord server, Axeon ([click/tap here][2] to join if interested, we mostly talk tech & gaming stuff) which at the time was still new and growing, and known as Aqua. And yes, this is seriously the first blog post of 2022, because the last one was last year. Anyways, the topic of this blog post is April Fools Day; I began writing this blog post the next day (2 April) but I couldn't bother to finish writing this until today, but that's besides the point. This year, it was about a rename from Lynxmic to "Cimxnyl" (the same Lynxmic name, in reverse), with a very simple branding using the Arial font.
 
-<center><img width="200" height="200" src="http://lynxmic.github.io/img/postmedia/cimxnyl logo.png"></center>
-<center>Logo of "Cimxnyl". The C and i letters in the logo also use the Arial font.</center>
-<br>
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="15%" height="auto" src="http://lynxmic.github.io/img/postmedia/cimxnyl logo.png">
+<img class="is-hidden-widescreen" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/cimxnyl logo.png">
+<p>Logo of "Cimxnyl". The C and i letters in the logo also use the Arial font.</p><br>
+</div>
 
 Anyone who follows me/often checks out [my Twitter page][3] may have noticed what was with this whole Cimxnyl thingy in the most closest way. I referred to "Cimxnyl" as "a YouTube channel manufacturing batteries and tripods", referring to SocialBlade adjusting "estimated earnings" to show batteries and tripods instead of the actual estimated earnings it would usually show, again for this year's April Fools:
 
@@ -27,7 +30,10 @@ One year ago, the Lynxmic official Discord server, Axeon, was known as Lynx-Axeo
 
 However, not just that! The names of the channels and roles of the Discord server were also changed. So, the names of all channels started with "lynx-" and the role names started with "best":
 
-<center><img style="max-width: 25%; height: auto;" src="http://lynxmic.github.io/img/postmedia/d.png"></center>
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="25%" height="auto" src="http://lynxmic.github.io/img/postmedia/d.png">
+<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/d.png">
+</div>
 
 ## 2020: An year of exception
 In 2020, there was nothing for April Fools. For short, April Fools 2020 was skipped. I did not heistate back then to announce this. I invoked the reasons of "what's going on in the world [at the time]" and "technical reasons". It's very easy to guess what was the specific "what's going on in the world" thing: the COVID-19 pandemic had just begun at the time, with many lockdowns imposed around the world (this included my location). And regarding the "technical reasons", they weren't exactly technical (why did I use the word technical at this point?): for context, I just didn't fully prepare April Fools 2020 at Lynxmic while I was still planning it. As such, April Fools jokes would be resumed a year later, in 2021, and beyond.
@@ -54,8 +60,6 @@ Now into announcements. If you read the blog in the past month (or you only came
 Also, last Monday, you may or may not remember that I've done a LynxLIVE on Windows Vista. Last Monday was 11 April, which 5 years ago was the end of support date for Vista. Today, I finally published the stream as a VOD, process which took longer than usual as I had to trim a few seconds of the stream. Also what took it longer for me to make it viewable to the public was my laziness-as-usual, so... [feel free to watch it][5].
 
 Future LynxLIVE ideas right now include revisiting Windows 10 Creators Update (this update to W10 was released on Vista's EOS date; 11 April 2017). I'm now in spring break so this means, more time to focus on the Lynxmic project for this second half of April. Including on new videos (the time has come to publish a new video anyways, because the last was in early March).
-
-UPDATE 30.04.2022: No longer considering a W10 CU stream, due to various reasons.
 
 [1]: https://lynxmic.github.io/2018/01/19/the-aqua-community-discord-server.html
 [2]: https://discord.io/Lynxmic
