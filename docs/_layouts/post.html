@@ -8,20 +8,35 @@
         background-image: url("https://lynxmic.github.io/img/blog color bg.png");
         background-position: center;
         background-attachment: fixed;
-        color: white;
+        background-color: #363636;
+        overflow-y: overlay;
+        overflow-x: hidden;
          }
-    .image {
+    ::-webkit-scrollbar {
+        width: 8px;
+         }
+    ::-webkit-scrollbar-track { 
+       border-radius: 10px;
+         }
+    ::-webkit-scrollbar-thumb {
+       background: #f5f5f5;
+       border-radius: 10px;
+         }
+   ::-webkit-scrollbar-thumb:hover {
+       background: #dbdbdb; 
+         }
+   .image {
       background-image: url("{{ page.image }}");
       background-position: center;
       background-attachment: fixed;
       background-size: cover;
-    }
-    p, h1, h2, h3, h4, strong {
+         }
+   p, h1, h2, h3, h4, strong {
     color: white !important;
-    }
-    a:hover {
+         }
+   a:hover {
     color: white;
-}
+         }
 </style>
 </head>
 
