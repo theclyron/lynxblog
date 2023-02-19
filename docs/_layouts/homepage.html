@@ -5,15 +5,13 @@
   {% include head.html %}
   <style>
     html, body {
-        background-image: url("https://lynxmic.github.io/img/blog bg.png");
-        background-position: center;
-        background-attachment: fixed;
+        background: linear-gradient(-50deg, rgba(73, 85, 101, .5), rgba(48, 59, 74, .5));
+        animation: gradient 15s ease infinite;
+        background-size: 400% 400%;
+       	height: 100vh;
         background-color: #363636;
         overflow-y: overlay;
         overflow-x: hidden;
-         }
-     a:hover {
-        color: white;
          }
     ::-webkit-scrollbar {
         width: 8px;
@@ -21,14 +19,28 @@
          }
     ::-webkit-scrollbar-track { 
        border-radius: 10px;
-         }
+        }
     ::-webkit-scrollbar-thumb {
        background: #f5f5f5;
        border-radius: 10px;
-         }
+        }
    ::-webkit-scrollbar-thumb:hover {
        background: #dbdbdb; 
-         }
+        }
+   a:hover {
+       color: white;
+        }
+   @keyframes gradient {
+	     0% {
+		      background-position: 0% 50%;
+	        }
+	     50% {
+		      background-position: 100% 50%;
+	        }
+	     100% {
+		      background-position: 0% 50%;
+	        }
+        }
 </style>
 </head>
 
