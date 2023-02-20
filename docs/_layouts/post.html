@@ -3,38 +3,7 @@
 <link rel="icon" type="image/png" href="https://lynxmic.github.io/img/blog favicon.png">
 <head>
   {% include head.html %}
-  <style>
-    html, body {
-        background-color: #363636;
-        overflow-y: overlay;
-        overflow-x: hidden;
-         }
-    ::-webkit-scrollbar {
-        width: 8px;
-         }
-    ::-webkit-scrollbar-track { 
-       border-radius: 10px;
-         }
-    ::-webkit-scrollbar-thumb {
-       background: #f5f5f5;
-       border-radius: 10px;
-         }
-   ::-webkit-scrollbar-thumb:hover {
-       background: #dbdbdb; 
-         }
-   a:hover {
-       color: white;
-         }
-   .image {
-      background-image: url("{{ page.image }}");
-      background-position: center;
-      background-attachment: fixed;
-      background-size: cover;
-         }
-   p, h1, h2, h3, h4, ul, strong {
-    color: white !important;
-         }
-</style>
+  <link href="https://lynxmic.github.io/css/post.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
