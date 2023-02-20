@@ -25,10 +25,10 @@ a:hover {
    color: white;
     }
 div {
-  animation: effect 0.5s ease-in-out;
+  animation: effect 0.3s ease-in-out;
     }
 .has-fade-effect {
-  animation: fadein 1.2s;
+  animation: fadein 1s;
     }
 @keyframes gradient {
      0% {
