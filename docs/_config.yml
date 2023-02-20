@@ -1,11 +1,20 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lynxmic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-currentyear: "2023"
-author_name: "Lynxmic"
-author_pic: "http://lynxmic.github.io/img/profile.png"
+baseurl: ""
+domain: ""
+url: "http://lynxmic.github.io"
+name: "Lynxmic Blog"
+logo: "https://lynxmic.github.io/img/blog logo.png"
+rss: "/feed.xml"
 paginate: 10
 paginate_path: "/posts/:num/"
 page_excerpts: true
+currentyear: "2023"
+
+author_name: "Lynxmic"
+author_pic: "http://lynxmic.github.io/img/profile.png"
+author_youtube: "https://youtube.com/@lynxmic"
+author_twitter: "https://twitter.com/lynxmic"
+author_fedi: "https://wetdry.world/@lynxmic"
+author_discord: "https://discord.gg/wDxDKJU2sj"
 
 plugins:
   - jekyll-feed
