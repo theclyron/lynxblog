@@ -49,12 +49,3 @@ div {
   from {opacity: 0;}
   to {opacity: 1;}
     }
-    .image {
-        background-image: url("{{ page.image }}");
-        background-position: center;
-        background-attachment: fixed;
-        background-size: cover;
-           }
-     p, h1, h2, h3, h4, ul, strong {
-        color: white !important;
-           }
