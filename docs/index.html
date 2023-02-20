@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="box has-background-dark">
 <section class="section">
-  <div class="columns has-text-light">
+  <div class="columns has-text-light has-fade-effect">
     <div class="column">
   <h1 class="title has-text-light">Welcome!</h1>
   <h2 class="subtitle has-text-light"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}</h2>
@@ -18,7 +18,7 @@ title: Home
 <br>
 <div class="container">
   {% for post in paginator.posts %}
-          <div class="box has-background-dark has-text-light">
+          <div class="box has-background-dark has-text-light has-fade-effect">
             <div class="columns">
               <div class="column is-one-third">
                 <figure class="image is-16by9">
@@ -76,3 +76,4 @@ title: Home
     </div>
     {% endif %}
     </div>
+    {% include footer.html %}
