@@ -1,6 +1,8 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lynxmic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 currentyear: "2023"
+author_name: "Lynxmic"
+author_pic: "http://lynxmic.github.io/img/profile.png"
 paginate: 10
 paginate_path: "/posts/:num/"
 page_excerpts: true
