@@ -6,7 +6,15 @@
     </div>
       <div class="column">
       <h1 class="title has-text-light">{{ page.title }}</h1>
-      <h2 class="subtitle has-text-light"><strong class="has-text-light">{{ page.author }}</strong> &#183; {{ page.date | date_to_string }}</h2>
+      <h2 class="subtitle"></h2>
+              <nav class="level">
+                <div class="level-left">
+                <div class="level-item">
+              <figure class="image is-32x32">
+                <img class="is-rounded" src="{{ site.author_pic }}" alt="{{ site.author_name }}" title="{{ site.author_name }}">
+              </figure>
+              <h2 class="subtitle has-text-light">&nbsp; <strong class="has-text-light">{{ site.author_name }}</strong> &#183; {{ page.date | date_to_string }}</h2>
+              </div></div></nav>
     </div>
     </div>
   </section>
