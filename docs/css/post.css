@@ -21,7 +21,7 @@ a:hover {
    color: white;
     }
 .has-fade-effect {
-    animation: fadein 1s;
+    animation: fadein 0.5s;
       }
 @keyframes fadein {
     from {opacity: 0;}
