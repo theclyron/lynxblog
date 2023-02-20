@@ -3,6 +3,30 @@ html, body {
     overflow-y: overlay;
     overflow-x: hidden;
      }
+     @font-face {
+        font-family: "asap-regular";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-Regular.otf");
+       }
+  @font-face {
+        font-family: "asap-bold";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-Bold.otf");
+       }
+  @font-face {
+        font-family: "asap-bold-italic";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-BoldItalic.otf");
+       }
+  @font-face {
+        font-family: "asap-italic";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-Italic.otf");
+       }
+  @font-face {
+        font-family: "asap-light";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-Light.otf");
+       }
+  @font-face {
+        font-family: "asap-light-italic";
+        src: url("https://lynxmic.github.io/css/fonts/asap/Asap-LightItalic.otf");
+       }
 ::-webkit-scrollbar {
     width: 8px;
     background: transparent;
