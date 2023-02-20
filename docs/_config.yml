@@ -1,6 +1,6 @@
 baseurl: ""
 domain: ""
-url: "http://lynxmic.github.io"
+url: "https://lynxmic.github.io"
 name: "Lynxmic Blog"
 logo: "/img/blog logo.png"
 favicon: "/img/blog favicon.png"
@@ -11,7 +11,7 @@ page_excerpts: true
 currentyear: "2023"
 
 author_name: "Lynxmic"
-author_pic: "http://lynxmic.github.io/img/profile.png"
+author_pic: "/img/profile.png"
 author_gateway: "https://linktr.ee/lynxmic"
 author_youtube: "https://youtube.com/@lynxmic"
 author_twitter: "https://twitter.com/lynxmic"
