@@ -17,6 +17,8 @@ author_twitter: "https://twitter.com/lynxmic"
 author_fedi: "https://wetdry.world/@lynxmic"
 author_discord: "https://discord.gg/wDxDKJU2sj"
 
+source: "https://github.com/Lynxmic/lynxmic.github.io"
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
