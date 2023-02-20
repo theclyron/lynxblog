@@ -36,3 +36,6 @@ a:hover {
  p, h1, h2, h3, h4, ul, strong {
     color: white !important;
        }
+ .title, .subtitle {
+    font-family: "asap-light";
+ }
