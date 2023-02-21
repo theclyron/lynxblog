@@ -9,7 +9,12 @@
   {% include navbar.html %}
   {% include metadata.html %}
     <ul>
-      <div class="content has-fade-effect">
+      <div class="content has-fade-effect is-hidden-mobile">
+        <div class="container">
+    <p>{{ content }}</p>
+        </div>
+      </div>
+      <div class="content has-fade-effect is-hidden-tablet is-hidden-desktop mr-5 ml-5">
         <div class="container">
     <p>{{ content }}</p>
         </div>
