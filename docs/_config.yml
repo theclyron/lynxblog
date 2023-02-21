@@ -4,6 +4,7 @@ url: "https://lynxmic.github.io"
 name: "Lynxmic Blog"
 logo: "/img/blog logo.png"
 favicon: "/img/blog favicon.png"
+image_src: "/img/postmedia/"
 rss: "/feed.xml"
 paginate: 10
 paginate_path: "/posts/:num/"
