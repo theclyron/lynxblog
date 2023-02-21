@@ -1,10 +1,9 @@
 ---
 # Use ## to start a subheading in the blog post.
 layout: post
-title:  "BriciHub is now a thing!"
-date:   1 December 2017
-author: Lynxmic
-image: http://lynxmic.github.io/img/postmedia/bricihub cover.jpg # default: https://lynxmic.github.io/img/placeholder.png
+title: "BriciHub is now a thing!"
+date: 1 December 2017
+image: bricihub cover.jpg # default: placeholder.png
 alt: BriciHub's old birdsite header. The BriciHub so-called logo, located in the center, is surrounded by the logos of BSDev, BW-Slipdost, Techseasons, Sapphire and the BS Community.
 ---
 Welcome to this blog post,
