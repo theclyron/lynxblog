@@ -3,8 +3,8 @@
 layout: post
 title: "The future of the blog and other updates"
 date: 6 August 2022
-author: Lynxmic
-image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
+image: placeholder.png # default: placeholder.png
+alt:
 ---
 No intro this time, let's get into the subject of the blog post.
 
