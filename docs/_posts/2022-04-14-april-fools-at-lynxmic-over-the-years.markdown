@@ -3,8 +3,7 @@
 layout: post
 title: "April Fools at Lynxmic over the years + announcements"
 date: 14 April 2022
-author: Lynxmic
-image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
+image: placeholder.png # default: placeholder.png
 alt:
 ---
 "Hello this is Lynxmic and welcome to this blog post. This is the first blog post of 2022. Now to the blog post!!!"
