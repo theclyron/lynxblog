@@ -2,9 +2,9 @@
 # Use ## to start a subheading in the blog post.
 layout: post
 title:  "A new beginning"
-date:   21 November 2021
-author: Lynxmic
-image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
+date: 21 November 2021
+image: placeholder.png # default: placeholder.png
+alt:
 ---
 Welcome to the first post on this blog, and generally my first blog post in over 2 years!
 
