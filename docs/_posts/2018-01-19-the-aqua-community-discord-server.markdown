@@ -2,9 +2,8 @@
 # Use ## to start a subheading in the blog post.
 layout: post
 title:  "The Aqua Community Discord server"
-date:   19 January 2018
-author: Lynxmic
-image: http://lynxmic.github.io/img/postmedia/aqua_community_cover.jpg # default: https://lynxmic.github.io/img/placeholder.png
+date: 19 January 2018
+image: aqua_community_cover.jpg # default: placeholder.png
 alt: Aqua Community's birdsite header as of Jan 2018
 ---
 Hello there. It's been a while since I've last made a blog post. This is the first post of 2018. Now to the blog post
