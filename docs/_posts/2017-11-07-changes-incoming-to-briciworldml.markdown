@@ -1,10 +1,9 @@
 ---
 # Use ## to start a subheading in the blog post.
 layout: post
-title:  "Changes incoming to BriciWorld.ml + stuffs to say"
-date:   7 November 2017
-author: Lynxmic
-image: http://lynxmic.github.io/img/postmedia/opera_2017-11-07_18-30-46.png # default: https://lynxmic.github.io/img/placeholder.png
+title: "Changes incoming to BriciWorld.ml + stuffs to say"
+date: 7 November 2017
+image: opera_2017-11-07_18-30-46.png # default: placeholder.png
 alt: Screenshot of BriciWorld.ml with dark mode enabled, as of November 2017.
 ---
 Hey everyone,
