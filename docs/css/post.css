@@ -51,9 +51,10 @@ a:hover {
     from {opacity: 0;}
     to {opacity: 1;}
       }
- p, h1, h2, h3, h4, ul, strong {
+ p, h1, h3, h4, ul, strong {
     color: white !important;
        }
- .title, .subtitle {
+ .title, .subtitle, h2 {
     font-family: "asap-light";
+    color: white !important;
  }
