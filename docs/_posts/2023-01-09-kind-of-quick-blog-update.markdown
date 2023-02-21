@@ -3,8 +3,8 @@
 layout: post
 title: "Kind of a quick blog update"
 date: 9 January 2023
-author: Lynxmic
-image: https://lynxmic.github.io/img/placeholder.png # default: https://lynxmic.github.io/img/placeholder.png
+image: placeholder.png # default: placeholder.png
+alt:
 ---
 Hi, just want to make this blog post real quick (why am I writing blog posts at 2am...). [Back in August][1], I said that this blog would be phased out as we know it if Twitter releases "Notes" (since that would've been enough for me for a place to write long-form content). I initially wanted to talk about this statement in the previous blog post but that didn't came in my mind until now.
 
