@@ -3,8 +3,7 @@
 layout: post
 title: "Wrapping up 2022"
 date: 31 December 2022
-author: Lynxmic
-image: https://lynxmic.github.io/img/postmedia/2022.png # default: https://lynxmic.github.io/img/placeholder.png
+image: 2022.png # default: placeholder.png
 alt: Text reading 2022, with blurred YT channel video thumbnails behind it.
 ---
 While, in real life, 2022 wasn’t as better if-not-worse than 2021, it’s the total opposite for the Lynxmic project. While 2021 was an inactive year, 2022 was entirely different for the YT channel, especially throughout the second half.
