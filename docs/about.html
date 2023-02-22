@@ -1,0 +1,122 @@
+---
+layout: main
+title: About
+---
+<div class="box has-background-dark has-fade-effect">
+  <section class="section">
+  <div class="columns has-text-light">
+    <div class="column is-hidden-mobile">
+    <h1 class="title has-text-light">About me</h1>
+    <h2 class="subtitle has-text-light">{{ site.author_name }}</h2>
+  </div>
+  <div class="column is-hidden-widescreen">
+    <h1 class="title has-text-light">About me</h1>
+    <h2 class="subtitle has-text-light"></h2>
+    <nav class="level is-mobile">
+      <div class="level-left">
+      <div class="level-item">
+    <figure class="image is-32x32">
+      <img class="is-rounded" src="{{ site.author_pic }}" alt="{{ site.author_name }}" title="{{ site.author_name }}">
+    </figure>
+    <h2 class="subtitle has-text-light">
+      &nbsp; {{ site.author_name }}</h2>
+  </div></div></div></nav>
+  <div class="column is-narrow is-hidden-mobile">
+    <figure class="image is-64x64">
+      <img class="is-rounded" src="{{ site.author_pic }}" alt="{{ site.author_name }}" title="{{ site.author_name }}">
+    </figure>
+  </div>
+  </div>
+  </section>
+  </div>
+  <br>
+  <div class="container">
+  <div class="box has-background-dark has-fade-effect">
+    <section class="section">
+     <div class="columns has-text-light is-size-5-widescreen">
+      <div class="column is-four-fifths">
+    <p class="has-text-light">I run things around on the internet for almost 10 years now.</p>
+    <br><p class="has-text-light">Since 2016, I've been putting time and effort on <strong class="has-text-light">the Lynxmic project,</strong> the main pillar being the tech-focused <a href="{{ site.author_youtube }}">YouTube channel</a>, with 130+ subscribers and 25,000+ views as of late February 2023, as well as my second channel (<a href="https://youtube.com/@lynxmicgold">Lynxmic Gold</a>).</p>
+    <br><p class="has-text-light">Outside YouTube, you can reach me on <strong class="has-text-light">various social networking platforms:</strong></p>
+    <br>
+    <div class="columns is-hidden-mobile">
+     <div class="column">
+      <p class="has-text-centered"><i class="fab fa-twitter fa-4x"></i></p>
+      <p class="title is-3 has-text-light has-text-centered">Twitter</p>
+      <p class="subtitle is-5 has-text-light has-text-centered"><a href="{{ site.author_twitter }}" class="has-text-light"><strong class="has-text-light">@Lynxmic</strong>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+     </div>
+     <div class="column">
+      <p class="has-text-centered"><i class="fab fa-mastodon fa-4x"></i></p>
+      <p class="title is-3 has-text-light has-text-centered">Mastodon/Fediverse</p>
+      <p class="subtitle is-5 has-text-light has-text-centered"><a href="{{ site.author_fedi }}" class="has-text-light"><strong class="has-text-light">@lynxmic</strong>@wetdry.world&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+     </div>
+     <div class="column">
+      <p class="has-text-centered"><i class="fab fa-discord fa-4x"></i></p>
+      <p class="title is-3 has-text-light has-text-centered">Discord</p>
+      <p class="subtitle is-5 has-text-light has-text-centered"><a href="{{ site.author_discord }}" class="has-text-light"><strong class="has-text-light">Lynxmic's Square</strong>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+      <p class="subtitle is-6 has-text-light has-text-centered"><a href="https://discord.com/users/309289047438655489" class="has-text-light">Lynxmic#1330</a></p>
+     </div>
+    </div>
+    <div class="columns is-hidden-tablet is-hidden-desktop">
+      <div class="column is-narrow">
+       </div>
+       <div class="column is-narrow">
+       <p class="title is-3 has-text-light"><i class="fab fa-twitter"></i> Twitter</p>
+       <p class="subtitle is-5 has-text-light"><a href="{{ site.author_twitter }}" class="has-text-light"><strong class="has-text-light">@Lynxmic</strong>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+      </div><br>
+      <div class="column">
+        <p class="title is-3 has-text-light"><i class="fab fa-mastodon"></i> Mastodon/Fediverse</p>
+        <p class="subtitle is-5 has-text-light"><a href="{{ site.author_fedi }}" class="has-text-light"><strong class="has-text-light">@lynxmic</strong>@wetdry.world&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+      </div><br>
+      <div class="column">
+        <p class="title is-3 has-text-light"><i class="fab fa-discord"></i> Discord</p>
+        <p class="subtitle is-5 has-text-light"><a href="{{ site.author_discord }}" class="has-text-light"><strong class="has-text-light">Lynxmic's Square</strong>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i></a></p>
+        <p class="subtitle is-6 has-text-light"><a href="https://discord.com/users/309289047438655489" class="has-text-light">Lynxmic#1330</a></p>
+      </div>
+     </div>
+    </div>
+    </div>
+    </section>
+    </div>
+    </div><br>
+<!-- <div class="container">
+      <div class="columns">
+        {% for post in site.posts limit: 4 %}
+            <div class="column">
+              <div class="card has-background-dark">
+                <div class="card-image">
+                  <figure class="image is-16by9">
+                    <img src="{{ site.url }}{{ site.image_src }}{{ post.image }}" alt="{{ post.title }}">
+                  </figure>
+                </div>
+                <div class="card-content">
+                  <div class="media">
+                    <div class="media-left"></div>
+                    <div class="media-content">
+                      <p class="title has-text-light is-4" href="{{ post.url }}">{{ post.title | truncate: 40 }}</p>
+                      <p class="subtitle has-text-light is-6">{{ site.author_name }} &#183; {{ post.date | date_to_string }}</p>
+                    </div>
+                  </div>     
+                  <div class="content has-text-light">
+                    <p>{{ post.excerpt | truncate: 70 }}</p>
+                    <a class="button is-rounded has-background-dark has-text-light" href="{{ post.url }}">Read post</a>
+                  </div>
+            </div>
+            </div>
+            </div>
+        {% endfor %}
+        </div>
+        <div class="column">
+          <div class="box has-background-dark has-text-centered">
+            <div class="columns is-centered is-align-items-center">
+              <div class="column is-narrow">
+                <p class="title has-text-light is-4"><a class="has-text-light" href="../index.html">See older posts</a></p>
+                </div>
+              <div class="column is-narrow">
+            <a class="has-text-light" href="../index.html"><i class="fas fa-arrow-right fa-4x"></i></a>
+              </div>
+          </div>
+          </div>
+        </div>
+        </div> -->
+        {% include footer.html %}
