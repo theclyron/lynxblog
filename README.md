@@ -1,3 +1,3 @@
 # Lynxmic Blog
 
-This repository stores the source code for the Jekyll-powered Lynxmic Blog, and mainly exists so it can be hosted on GitHub Pages.
+This is the source code for the [Jekyll-powered Lynxmic Blog](https://lynxmic.github.io). Feel free to contribute (e.g. for fixing typos or generally any errors you may encounter browsing through the blog).
