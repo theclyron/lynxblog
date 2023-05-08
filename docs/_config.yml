@@ -9,6 +9,7 @@ rss: "/feed.xml"
 paginate: 10
 paginate_path: "/posts/:num/"
 page_excerpts: true
+timezone: Europe/Bucharest
 currentyear: "2023"
 
 author_name: "Lynxmic"
