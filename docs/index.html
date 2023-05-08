@@ -3,12 +3,12 @@ layout: main
 title: Home
 ---
 <div class="box has-background-dark">
-  {% include noscript.html %}
+ {% include noscript.html %}
 <section class="section">
   <div class="columns has-text-light has-fade-effect">
     <div class="column">
   <h1 class="title has-text-light">Welcome!</h1>
-  <h2 class="subtitle has-text-light"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}<!--Feel free to explore what's in store.--></h2>
+  <h2 class="subtitle has-text-light">Feel free to explore what's in store.</h2>
 </div>
 <div class="column is-narrow is-hidden-mobile">
   <i class="fas fa-home fa-4x"></i>
@@ -58,24 +58,23 @@ title: Home
             </div>
           </div>
     {% endfor %}
+    <div class="box has-background-dark has-fade-effect">
+      <p class="has-text-light has-text-centered is-size-5" style="font-family: 'asap-light', 'asap-bold';"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}</p>
+    </div>
 
     {% if paginator.total_pages > 1 %}
     <div class="pagination">
       <nav class="pagination is-rounded" role="navigation" aria-label="pagination">
         {% if paginator.previous_page %}
-        <a class="pagination-previous has-text-light is-hidden-mobile" href="{{ paginator.previous_page_path | relative_url }}">Previous page</a>
-        <a class="pagination-previous has-text-light is-hidden-widescreen" href="{{ paginator.previous_page_path | relative_url }}"><i class="fas fa-chevron-left"></i></a>
+        <a class="pagination-previous has-text-light" href="{{ paginator.previous_page_path | relative_url }}" title="Previous page"><i class="fas fa-chevron-left"></i></a>
         {% else %}
-        <button class="pagination-previous is-disabled is-hidden-mobile" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page">Previous page</button>
-        <button class="pagination-previous is-disabled is-hidden-widescreen" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page"><i class="fas fa-chevron-left"></i></button>
+        <button class="pagination-previous is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page"><i class="fas fa-chevron-left"></i></button>
         {% endif %}
 
         {% if paginator.next_page %}
-        <a class="pagination-next has-text-light is-hidden-mobile" href="{{ paginator.next_page_path | relative_url }}">Next page</a>
-        <a class="pagination-next has-text-light is-hidden-widescreen" href="{{ paginator.next_page_path | relative_url }}"><i class="fas fa-chevron-right"></i></a>
+        <a class="pagination-next has-text-light" href="{{ paginator.next_page_path | relative_url }}" title="Next page"><i class="fas fa-chevron-right"></i></a>
         {% else %}
-        <button class="pagination-next is-disabled is-hidden-mobile" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page">Next page</button>
-        <button class="pagination-next is-disabled is-hidden-widescreen" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page"><i class="fas fa-chevron-right"></i></button>
+        <button class="pagination-next is-disabled" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page"><i class="fas fa-chevron-right"></i></button>
         {% endif %}
         
         <ul class="pagination-list">
