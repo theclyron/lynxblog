@@ -1,5 +1,5 @@
 html, body {
-    background: linear-gradient(-50deg, rgba(73, 85, 101, .5), rgba(48, 59, 74, .5));
+    background: linear-gradient(-50deg, rgba(117, 68, 119, .3), rgba(100, 52, 102, .3));
     animation: gradient 15s ease infinite;
     background-size: 400% 400%;
     height: 100vh;
@@ -31,6 +31,10 @@ html, body {
       font-family: "asap-light-italic";
       src: url("https://lynxmic.github.io/css/fonts/asap/Asap-LightItalic.otf");
      }
+@font-face {
+      font-family: "timeburner-bold";
+      src: url("https://lynxmic.github.io/css/fonts/timeburner/timeburnerbold.ttf");
+     }
 ::-webkit-scrollbar {
     width: 8px;
     background: transparent;
@@ -48,7 +52,7 @@ html, body {
 a:hover {
    color: white;
     }
-div {
+div.container {
   animation: effect 0.3s ease-in-out;
     }
 .has-fade-effect {
