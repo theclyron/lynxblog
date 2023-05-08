@@ -3,7 +3,7 @@
 layout: post
 title:  "A new beginning"
 date: 21 November 2021
-image: placeholder.png # default: placeholder.png
+image: default.png # default: default.png
 alt:
 ---
 Welcome to the first post on this blog, and generally my first blog post in over 2 years!
