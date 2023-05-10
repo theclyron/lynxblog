@@ -32,7 +32,7 @@ While this may be the end of LynxLIVE, it's the start of a new chapter of stream
 
 As for the annual LynxLIVE Special streams, they will be scrapped as well from this year onwards, because anyways they've just served as "boredom streams" anyway. In [2019][4] and [2020][5], the streams would be just me playing around with VMs, taking place in or after Christmas Day. I attempted to change that with [the 2021 installment][6], by moving the stream from Christmas Day to New Year's Eve and including a countdown to 2022 for the timezones EET (GMT+2), CET (GMT+1) and partially WET (GMT+0). Not just that, plans for LynxLIVE Special 2021 and part 2 of [this stream from Nov 2021][7] were merged to form the main topic of LynxLIVE Special 2021, in order to try to make it more interesting than the previous LLS installments. But as for the 2022 installment, uhhh... just consider it cancelled. From this year onwards, the LynxLIVE Special streams will be replaced with a normal video at the end of the year, a compliation of the best moments of the Lynxmic/Lynxmic Gold videos of the year.
 
-*This article was updated on 3 September 2022.*
+*This blog post was edited on 3 September 2022*
 
 [1]: https://forms.gle/NS6dCER2gwZRBn3o7
 [2]: https://youtu.be/M94mzKpILIg
