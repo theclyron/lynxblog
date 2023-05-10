@@ -31,9 +31,11 @@ The videos that will be uploaded over to YouTube will be mirrored to [Vanillo][7
 ## Even more...
 Some of you know that in addition to the [account I created on Mastodon][4] - due to the Twitter fiasco - I also have an account on [Calckey][5]. For those who don't know what Calckey is, it's another "social network" (in fact, fediverse software), similar to Mastodon. It uses the ActivityPub protocol (just like Mastodon does), so if you have a Calckey account and want to interact with someone on, let's say, Mastodon, it's possible right from Calckey. And vice-versa.
 
-What I want to announce is that I switched instances on Calckey with the occasion of the revamp, as such you can now find me at [@lynxmic@calckey.social][5] instead of "@lynxmic@stop.voring.me" like until now. It's just that I find the former instance to be more suited than the latter.
+What I want to announce is that I switched instances on Calckey with the occasion of the revamp, as such you can now find me at [@lynxmic@calckey.social][6] instead of "@lynxmic@stop.voring.me" like until now. It's just that I find the former instance to be more suited than the latter.
 
 The revamp is also reflected within [the Discord server][8], as well as my [second channel][9] (Lynxmic Gold), which has been renamed <strong class="has-text-light">MoreLynxmic</strong>. Moreover, I plan to set up an official server on [Revolt][10], similar to Discord except it's FOSS and more user-first. Won't hesitate to announce it when ready.
+
+*This blog post was edited on 10 May 2023*
 
 [1]: https://lynxmic.github.io/about
 [2]: https://forms.gle/NS6dCER2gwZRBn3o7
