@@ -78,7 +78,7 @@ title: Home
             {% for page in (1..paginator.total_pages) %}
             {% if page == paginator.page %}
             <li><a class="pagination-link is-current" aria-current="page">{{ page }}</a></li>
-            {% else if page == 1 %}
+            {% elsif page == 1 %}
             <li><a class="pagination-link has-text-light" href="{{ '/' | relative_url }}">{{ page }}</a></li>
             {% else %}
             <li><a class="pagination-link has-text-light" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
