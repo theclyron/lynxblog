@@ -59,37 +59,34 @@ title: Home
           </div>
     {% endfor %}
     <div class="box has-background-dark has-fade-effect">
-      <p class="has-text-light has-text-centered is-size-5" style="font-family: 'asap-light', 'asap-bold';"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}</p>
-    </div>
-
-    {% if paginator.total_pages > 1 %}
-    <div class="pagination">
-      <nav class="pagination is-rounded" role="navigation" aria-label="pagination">
-        {% if paginator.previous_page %}
-        <a class="pagination-previous has-text-light" href="{{ paginator.previous_page_path | relative_url }}" title="Previous page"><i class="fas fa-chevron-left"></i></a>
-        {% else %}
-        <button class="pagination-previous is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page"><i class="fas fa-chevron-left"></i></button>
-        {% endif %}
-
-        {% if paginator.next_page %}
-        <a class="pagination-next has-text-light" href="{{ paginator.next_page_path | relative_url }}" title="Next page"><i class="fas fa-chevron-right"></i></a>
-        {% else %}
-        <button class="pagination-next is-disabled" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page"><i class="fas fa-chevron-right"></i></button>
-        {% endif %}
-        
-        <ul class="pagination-list">
-          {% for page in (1..paginator.total_pages) %}
-          {% if page == paginator.page %}
-          <li><a class="pagination-link is-current" aria-current="page">{{ page }}</a></li>
-          {% elsif page == 1 %}
-          <li><a class="pagination-link has-text-light" href="{{ '/' | relative_url }}">{{ page }}</a></li>
+      <p class="has-text-light has-text-centered is-size-5 mb-4" style="font-family: 'asap-light', 'asap-bold';"><strong class="has-text-light">{{ paginator.total_posts }} posts</strong> &#183; Page {{ paginator.page }} of {{ paginator.total_pages }}</p>
+      {% if paginator.total_pages > 1 %}
+        <nav class="pagination is-rounded is-centered" role="navigation" aria-label="pagination">
+          {% if paginator.previous_page %}
+          <a class="pagination-previous has-text-light" href="{{ paginator.previous_page_path | relative_url }}" title="Previous page"><i class="fas fa-chevron-left"></i></a>
           {% else %}
-          <li><a class="pagination-link has-text-light" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
-        </ul>
-      </nav>
+          <button class="pagination-previous is-disabled" href="{{ paginator.previous_page_path | relative_url }}" title="You're on the first page"><i class="fas fa-chevron-left"></i></button>
+          {% endif %}
+  
+          {% if paginator.next_page %}
+          <a class="pagination-next has-text-light" href="{{ paginator.next_page_path | relative_url }}" title="Next page"><i class="fas fa-chevron-right"></i></a>
+          {% else %}
+          <button class="pagination-next is-disabled" href="{{ paginator.next_page_path | relative_url }}" title="You're on the last page"><i class="fas fa-chevron-right"></i></button>
+          {% endif %}
+          
+          <ul class="pagination-list">
+            {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+            <li><a class="pagination-link is-current" aria-current="page">{{ page }}</a></li>
+            {% else if page == 1 %}
+            <li><a class="pagination-link has-text-light" href="{{ '/' | relative_url }}">{{ page }}</a></li>
+            {% else %}
+            <li><a class="pagination-link has-text-light" href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+          </ul>
+        </nav>
+        {% endif %}
+        {% endfor %}
       {% endif %}
-      {% endfor %}
     </div>
-    {% endif %}
     </div>
     {% include footer.html %}
