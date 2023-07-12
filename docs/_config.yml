@@ -6,7 +6,7 @@ logo: "/img/blog logo pink.png"
 favicon: "/img/pen pink.png"
 image_src: "/img/postmedia/"
 rss: "/feed.xml"
-paginate: 10
+paginate: 30
 paginate_path: "/posts/:num/"
 page_excerpts: true
 timezone: Europe/Bucharest
