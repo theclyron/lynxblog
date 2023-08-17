@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include headgw.html %}
+  <link href="{{ site.url }}/css/gateway.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div class="content is-align-self-center">
+    {{ content }}
+    </div>
+    <div id="discord" class="modal">
+      <div class="modal-background"></div>
+    
+      <div class="modal-content">
+        <div class="box" style="background: rgba(53, 53, 53, 1); color: rgba(255, 255, 255, 1)">
+          <h1 class="title" style="color: rgba(255, 255, 255, 1)">Lynxmic on Discord</h1>
+        <p>
+           <ul>
+            <li>
+              <strong><a class="has-text-light" href="https://jekyllrb.com/">Join the server</a></strong>
+            </li>
+            <li>
+              OR
+            </li>
+            <li>
+              <strong><a class="has-text-light" href="https://bulma.io/">Contact me on Discord DMs</a></strong> - @lynxmic
+            </li>
+           </ul>
+           <br>
+          </p>
+          <button class="button is-rounded has-background-dark has-text-light close" aria-label="close">
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+  <script type="text/javascript" src="{{ site.url }}/js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/navbar.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/modal.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/js/backtotop.js"></script>
+</body>
+</html>
