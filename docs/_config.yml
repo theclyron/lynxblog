@@ -1,4 +1,4 @@
-baseurl: "blog/"
+baseurl: "/blog/"
 domain: ""
 url: "https://lynxmic.github.io/"
 name: "Lynxmic Blog"
