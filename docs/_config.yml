@@ -1,27 +1,27 @@
-baseurl: ""
+baseurl: "/blog"
 domain: ""
-url: "https://lynxmic.github.io"
+url: "https://lynxmic.github.io/blog"
 name: "Lynxmic Blog"
-logo: "/img/blog logo pink.png"
-favicon: "/img/pen pink.png"
-image_src: "/img/postmedia/"
-rss: "/feed.xml"
+logo: "img/blog logo pink.png"
+favicon: "img/pen pink.png"
+image_src: "img/postmedia/"
+rss: "feed.xml"
 paginate: 30
-paginate_path: "/posts/:num/"
+paginate_path: "/:num/"
 page_excerpts: true
 timezone: Europe/Bucharest
 currentyear: "2023"
 
 author_name: "Lynxmic"
-author_pic: "/img/profile.png"
-author_logo: "/img/logo.png"
-author_gateway: "https://linktr.ee/lynxmic"
+author_pic: "img/profile.png"
+author_logo: "img/logo.png"
+author_gateway: "https://lynxmic.github.io"
 author_youtube: "https://youtube.com/@lynxmic"
 author_twitter: "https://twitter.com/lynxmic"
 author_fedi: "https://wetdry.world/@lynxmic"
 author_discord: "https://discord.gg/wDxDKJU2sj"
 
-source_url: "https://github.com/Lynxmic/lynxmic.github.io"
+source_url: "https://github.com/Lynxmic/blog"
 
 plugins:
   - jekyll-feed
