@@ -18,8 +18,8 @@ Overall, this was enough for me to start getting motivation again to make videos
 For other analytics, I'll let YouTube's 2022 snapshot emails speak for themselves:
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="40%" height="auto" src="http://lynxmic.github.io/img/postmedia/2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
+<img class="is-hidden-mobile" width="40%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
 <br><p>The 2022 snapshots for my main & second channels. Data is only up to 1 December 2022.</p>
 </div>
 
@@ -50,8 +50,8 @@ The mobile experience of the blog should be much better now. The previous layout
 </ul>
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/msedge_KUG2WZeSwT.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/msedge_KUG2WZeSwT.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
 <p>Out with this awful homepage of the Lynxmic Blog that was from 2021 until now.</p>
 </div>
 
@@ -69,7 +69,7 @@ With all that said, this is Lynxmic signing off for the last time in 2022.
 [1]: https://wetdry.world/@lynxmic
 [2]: https://youtube.com/post/Ugkxg_2mXOt-tgoCRCngbHZCGEmWjJ82xSwj
 [3]: https://discord.io/lynxmic
-[4]: https://lynxmic.github.io/2022/09/02/concluding-summer-2022-and-looking-forward-to-fall.html
+[4]: https://lynxmic.github.io/blog/2022/09/02/concluding-summer-2022-and-looking-forward-to-fall.html
 [5]: https://youtu.be/7KmRLvHI0Gc
 [6]: https://youtu.be/fnOROCQtQbI
-[7]: https://lynxmic.github.io/2021/12/31/wrapping-up-2021.html
+[7]: https://lynxmic.github.io/blog/2021/12/31/wrapping-up-2021.html
