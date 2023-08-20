@@ -11,8 +11,8 @@ Welcome to yet another post on this blog where I just share updates, because oth
 And the fact Summer 2022 is coming to an end means some updates too. Videos that came out throughout this summer have contained a motion background (for the first time since late 2018/early 2019) of a sea (because after all, it was the summer season, right?). A still-frame of the motion background was used as the background of the Lynxmic social media headers as well. Now you may or may know about this, but this special version of the Lynxmic branding used during the summer (from 2021 onwards) was always meant to be used between mid-June and the date when school starts in Romania in September. However, this year I'll be making an exception on when the summer background should be switched back to the main background, because this year school in Romania starts a week earlier than last year. That is, on 5 September. In fact, school is starting earlier than it would usually do in this country, the tradition being 15 September. I want to announce that the summer version of the branding will remain around this year until 15 September, after which it will be reverted.
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/header summer 2022.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/header summer 2022.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}header summer 2022.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}header summer 2022.png">
 <p>The Lynxmic header for Summer 2022.</p>
 </div>
 
