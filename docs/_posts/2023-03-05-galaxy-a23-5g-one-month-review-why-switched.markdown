@@ -24,8 +24,8 @@ After all this, I updated the phone to Android 13 as it had already rolled out b
 What about the camera? Generally nothing special, until you look at "More".
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.image_src }}a13 vs a23 camera.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.image_src }}a13 vs a23 camera.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}a13 vs a23 camera.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}a13 vs a23 camera.png">
 <br><p>Top: A13 | Bottom: A23 5G</p><br>
 </div>
 
