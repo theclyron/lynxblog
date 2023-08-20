@@ -18,8 +18,8 @@ The Windows 7 EOS video was the beginning of the style of its type that the Wind
 With all the secondary things out of the way, the video I've made with the occasion of the EOS for Windows 8.1 has been up for 4 days now and still going strong, with over 750+ views. As stated from the title, we'll be comparing the analytics of both the Windows 7 and 8.1 EOS videos. For a better look into, screenshots are going to be used throughout the blog post. We'll also take a look into the general analytics to have knowledge of the contribution these two videos have in the growth of the main channel.
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/msedge_XatBqLaB1X.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/msedge_XatBqLaB1X.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_XatBqLaB1X.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_XatBqLaB1X.png">
 <br><p>Views of the Windows EOS videos side-by-side. Data as of 14 January 2023.</p><br>
 </div>
 
@@ -28,8 +28,8 @@ As you can notice in the above screenshot, both videos had a view growth rate th
 However, what's interesting are the analytics of the videos after the EOS dates for 7 and 8.1. The Windows 7 video had stagnated at 100+ views, with a view growth rate typical of most other videos on my channel. Meanwhile, the view growth rate of the Windows 8.1 video still doesn't have any signs of slowing 4 days later, for some reason. It's an unprecedented case in the six years of Lynxmic history. Huge thanks to everyone who watched that video!
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/first day vs last 48h.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/first day vs last 48h.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}first day vs last 48h.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}first day vs last 48h.png">
 </div>
 
 The above screenshot shows the most popular methods through which the Windows 8.1 video gained views. The left applies to EOS day, while the right is in the last 48 hours as of date this blog post was written on. YouTube search dominates on EOS day, which was expected. A few days later, the algorithm (suggested videos + browse features) dominates. Something odd that happened today (again, as of writing this blog post) was that views from "suggested videos" began to accelerate, increasing the view growth rate as seen in the first screenshot (blue line).
@@ -37,15 +37,15 @@ The above screenshot shows the most popular methods through which the Windows 8.
 The next screenshot that you're going to see now will showcase how well performed the Windows 7 video in the past year. Notice the spike at the end?
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/msedge_jutBzIA8HX.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/msedge_jutBzIA8HX.png">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_jutBzIA8HX.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_jutBzIA8HX.png">
 </div>
 
 Most-if-not-all of these views came from the Windows 8.1 video, from where I linked both from the description and from the cards. Though idk why would anyone care about the analytics of the Windows 7 video in particular but thought I'd mention this. Next (and last) screenshot that I'll add in this blog post will involve the impact of the Windows 8.1 video on the main channel itself, particularly around subscriber numbers. For this I will be taking data from SocialBlade, as I think it describes the best. It's all self-explanatory, so I'll just let the screenshot speak for y'all readers of the Lynxmic Blog.
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="40%" height="auto" src="http://lynxmic.github.io/img/postmedia/msedge_msPFweeZ3m.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/msedge_msPFweeZ3m.png">
+<img class="is-hidden-mobile" width="40%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_msPFweeZ3m.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_msPFweeZ3m.png">
 </div>
 
 Notice the numbers for 11 January 2023 and beyond? One thing to keep in mind: as of writing this blog post, the main channel has in reality 116 subscribers. It takes some time to reflect in the analytics that aren't real-time. The last time the main channel's subscriber count has blown up following a single video getting hundreds of views was in October 2020, with that opinion video I made on Minecraft Java Edition ditching Mojang accounts in favor of Microsoft accounts, the same account system used in Bedrock ([click/tap here to watch][3]). I'd directly put in one more screenshot, this time regarding the impact of that said video in main channel growth, but I don't want to unnecessarily clutter this post, so here's the link to the [tweet I made on the matter][4]. Knowing Twitter nowadays, I'll still explain on this post what was the impact: subscriber and view growth exploding in a similar manner to the Windows 8.1 video.
