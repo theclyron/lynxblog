@@ -1,6 +1,6 @@
 baseurl: "/blog/"
 domain: ""
-url: "https://lynxmic.github.io/"
+url: "https://lynxmic.github.io"
 name: "Lynxmic Blog"
 logo: "img/blog logo pink.png"
 favicon: "img/pen pink.png"
