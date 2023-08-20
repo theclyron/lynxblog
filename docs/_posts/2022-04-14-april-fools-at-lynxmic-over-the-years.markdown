@@ -11,8 +11,8 @@ alt:
 Okay, okay, that was only a reference to the [first blog post of 2018][1], where I talked about my Discord server, Axeon ([click/tap here][2] to join if interested, we mostly talk tech & gaming stuff) which at the time was still new and growing, and known as Aqua. And yes, this is seriously the first blog post of 2022, because the last one was last year. Anyways, the topic of this blog post is April Fools Day; I began writing this blog post the next day (2 April) but I couldn't bother to finish writing this until today, but that's besides the point. This year, it was about a rename from Lynxmic to "Cimxnyl" (the same Lynxmic name, in reverse), with a very simple branding using the Arial font.
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="15%" height="auto" src="http://lynxmic.github.io/img/postmedia/cimxnyl logo.png">
-<img class="is-hidden-widescreen" width="50%" height="auto" src="http://lynxmic.github.io/img/postmedia/cimxnyl logo.png">
+<img class="is-hidden-mobile" width="15%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}cimxnyl logo.png">
+<img class="is-hidden-widescreen" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}cimxnyl logo.png">
 <p>Logo of "Cimxnyl". The C and i letters in the logo also use the Arial font.</p><br>
 </div>
 
@@ -30,8 +30,8 @@ One year ago, the Lynxmic official Discord server, Axeon, was known as Lynx-Axeo
 However, not just that! The names of the channels and roles of the Discord server were also changed. So, the names of all channels started with "lynx-" and the role names started with "best":
 
 <div style="text-align: center;">
-<img class="is-hidden-mobile" width="25%" height="auto" src="http://lynxmic.github.io/img/postmedia/d.png">
-<img class="is-hidden-widescreen" src="http://lynxmic.github.io/img/postmedia/d.png">
+<img class="is-hidden-mobile" width="25%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}d.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}d.png">
 </div>
 
 ## 2020: An year of exception
@@ -60,8 +60,8 @@ Also, last Monday, you may or may not remember that I've done a LynxLIVE on Wind
 
 Future LynxLIVE ideas right now include revisiting Windows 10 Creators Update (this update to W10 was released on Vista's EOS date; 11 April 2017). I'm now in spring break so this means, more time to focus on the Lynxmic project for this second half of April. Including on new videos (the time has come to publish a new video anyways, because the last was in early March).
 
-[1]: https://lynxmic.github.io/2018/01/19/the-aqua-community-discord-server.html
+[1]: https://lynxmic.github.io/blog/2018/01/19/the-aqua-community-discord-server.html
 [2]: https://discord.io/Lynxmic
 [3]: https://twitter.com/Lynxmic
-[4]: https://lynxmic.github.io/2021/12/31/wrapping-up-2021.html
+[4]: https://lynxmic.github.io/blog/2021/12/31/wrapping-up-2021.html
 [5]: https://youtu.be/198f_Afs91k
