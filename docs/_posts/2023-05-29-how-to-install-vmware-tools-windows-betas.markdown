@@ -36,5 +36,5 @@ Afterwards, turn on the VM, then install VMware Tools like you would do on stabl
 Though, if you're installing VMware Tools on a VM running some Windows 10/11 build, then simply installing it through "VM -> Install VMware Tools" (or "Manage -> Install VMware Tools", in the case of VMware Player) should definitely work too.
 
 [1]: https://youtu.be/-KFsqaB86iw
-[2]: https://drive.google.com/file/d/1iJk-bX7cb-GbndE3-FM0tp0JGNOSAu5v/view?usp=sharing
-[3]: https://drive.google.com/file/d/1xwBJSZyYYFaQlgqfayrW7a0hB9S7u2ls/view?usp=sharing
+[2]: https://mega.nz/file/2RMDjJ5B#UUTQI3tZGidDFqRszy64Yx-znOjGjsUFO4HeI_Ntkk4
+[3]: https://mega.nz/file/jEN1nLAb#Mmsd-uM0NStlCb7I_4g3VbLE5obpJjNPFB1hSQRY2cw
