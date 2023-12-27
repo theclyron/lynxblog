@@ -1,0 +1,75 @@
+---
+# Use ## to start a subheading in the blog post.
+layout: post
+title: "Wrapping up 2022"
+date: 31 December 2022
+image: 2022.png # default: placeholder.png
+alt: Text reading 2022, with blurred YT channel video thumbnails behind it.
+---
+While, in real life, 2022 wasn’t as better if-not-worse than 2021, it’s the total opposite for the Lynxmic project. While 2021 was an inactive year, 2022 was entirely different for the YT channel, especially throughout the second half.
+
+## The YT channel in 2022
+My main channel began 2022 with the same subscriber count range of 75-90 where it has been stagnating for years, following YT’s audit in early 2020 that caused the subscriber count to fall below 100. However, the subscriber count only began to rise again, and today, the channel reached 112 subscribers, a rise of +26. So, the first year since 2019 with substantial subscriber growth.
+
+While the first half was how it was, the second half was very active, especially following the YouTube break that I took during the summer. I mean, there were significant changes. First was the style of my thumbnails which became stale and demotivating (at least for me). Next was the introducing of a clear new video schedule (one new video every Saturday, at 10:00 CET/CEST). Then there came other changes, but which are not notable enough to include.
+
+Overall, this was enough for me to start getting motivation again to make videos as frequent as possible. I sometimes even have videos finished several weeks in advance, so for most of the time, I sticked to the new schedule. I want to take a moment to thank my current main laptop, which I bought in new condition in 2021, for helping me speed up production with better end results to the advantage of my main channel.
+
+For other analytics, I'll let YouTube's 2022 snapshot emails speak for themselves:
+
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="40%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
+<br><p>The 2022 snapshots for my main & second channels. Data is only up to 1 December 2022.</p>
+</div>
+
+## What about Lynxmic outside YT?
+Good question! Let's summarize. In July, I closed the r/Lynxmic subreddit. It was opened in 2020 as the official Lynxmic “forum” and had plans for it, though in reality I didn’t even care about the subreddit, and didn’t have any activity in it either, so it was shut down.
+
+So, I would be present only on Twitter and Discord actively, beside this blog and my YouTube channels. However, after October, the direction of Twitter drastically changed toward a disappointment, especially following the platform’s acquisition by Elon Musk. [I joined][1] the crowd of people creating Mastodon accounts, and knowing Mastodon’s decentralized and “user first” nature and the concept of federation, at least something good was obtained. Initially on mastodon.social, but then eventually moved to a smaller instance (wetdry.world). In the meantime, YouTube also finally gave me the community tab for all my three channels, meaning it’s not longer necessary to use other social networks for “channel updates” or do “update videos” of any sort. I just prefer it this way, it's [a wish come true][2], kind of.
+
+As for the Discord server that was formerly known as Axeon, it just turned 5 years old as of 28 December, an important milestone for its history. The server received a revamp and it’s now in line with today’s reality. If you’re a bored person sitting at the computer a lot, and want a place to talk about your interests (be it tech stuff, gaming, programming, or just want a place to hangout), then I recommend joining the Discord server ([click here][3]). And indeed, when I say "the server formerly known as Axeon", I'm serious. The server is now known as Lynxmic's Square as part of the effort to bring it in line with said today's reality.
+
+## Ah yes, did I forget something?
+You may have noticed this blog looks entirely different (unless this is the first time you're reading this blog). For 2023, I've rolled out a new redesign for this blog. This involved switching CSS frameworks - from MDBootstrap to Bulma. Excellent results have came from this redesign project. The pages of this website have never looked better than what you have seen in the past, if you're an older reader of Lynxmic Blog.
+
+Some changes over the old blog design that I find notable enough to mention:
+<ul>
+<li>
+The Share functionality has been removed in entirety (there were only two options - sharing on Twitter and copying to the clipboard), I didn't even want to bother completing the work on the Share functionality, if you want to share a blog post for others to see, just copy the link from your browser's address bar.
+</li>
+<li>
+The home page has been improved. Pagination actually works now, with every page displaying no more than 10 posts. For the sake of curiousity, there's also a count showing how many blog posts have been published so far. Also, shouldn't forget that the image is now part of the blog post metadata (as it should be), so an image may be specified to show up as the representative image of the blog post in their appropriate areas. There's no longer such thing as a "description" of the blog post now, as most of the time it was always filler (or empty, in the case of blog posts imported from BriciWorld Blog - my old Blogger blog from 2017-18). The description had been replaced with an excerpt from the blog post.
+</li>
+<li>
+You may have noticed in the navbar that there's an RSS icon - this is true! If you're into RSS stuff, feel free to subscribe to the official RSS feed of the Lynxmic Blog to have new blog posts coming to you right on your preferred RSS reader, by clicking the RSS icon.
+</li>
+<li>
+The mobile experience of the blog should be much better now. The previous layout was notorious for not being optimized for mobile. But, things go beyond unoptimized - it was broken. Just lmk if you notice something out of the ordinary I'm not aware of now under the Bulma redesign.
+</li>
+</ul>
+
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
+<p>Out with this awful homepage of the Lynxmic Blog that was from 2021 until now.</p>
+</div>
+
+## To conclude the last blog post of 2022...
+...thanks for sticking in for yet another year. 2022 was indeed a "year of something" for the channel for once, hopefully I will be able to continue this project throughout next year (damn I feel old seeing that the year we're all about to enter is 2023, time definitely flies).
+
+FYI, there will be no LynxLIVE Special 2022 (or generally any LynxLIVE Special installment in the future). LynxLIVE Specials were ultimately scrapped starting from this year onwards (like with the LynxLIVE umbrella in general, as I've already stated in a blog post I made [in early September][4]). LynxLIVE Special streams weren't even close to being special anyway in other aspects than the date so... instead, you can watch the "Retrospective of 2022" video that is now available for the general public to watch. It's a montage of the best moments of videos from my main and second channels of the year, I've been looking into coming up with a different "best of" format but I couldn't come up with something feasible enough, so a classic montage (like the [best of 2018 video][5]) is all you get. [Click here][6] to watch the retrospective of 2022 video, out now.
+
+And, if you want to see where the Lynxmic project has been going in 2021, out of curiosity, feel free to read the blog post wrapping up 2021 [here][7].
+
+The normal video schedule (a new video every Saturday) will be resuming in 2023 on 21 January. Until then, there will be a new video coming on 10 January sometime during the morning (before 10:00 in my local time EET) with the occasion of the end-of-support of Windows 8.1 (I've already shared a sneak peek on Twitter a few days ago). So yeah, many exciting things to come, stay tuned in 2023!
+
+With all that said, this is Lynxmic signing off for the last time in 2022.
+
+[1]: https://wetdry.world/@lynxmic
+[2]: https://youtube.com/post/Ugkxg_2mXOt-tgoCRCngbHZCGEmWjJ82xSwj
+[3]: https://discord.io/lynxmic
+[4]: https://lynxmic.github.io/blog/2022/09/02/concluding-summer-2022-and-looking-forward-to-fall.html
+[5]: https://youtu.be/7KmRLvHI0Gc
+[6]: https://youtu.be/fnOROCQtQbI
+[7]: https://lynxmic.github.io/blog/2021/12/31/wrapping-up-2021.html

@@ -1,0 +1,51 @@
+---
+# Use ## to start a subheading in the blog post.
+layout: post
+title:  "Wrapping up 2021"
+date: 31 December 2021
+image: lynxmic%202021%20vs%202022.png # default: placeholder.png
+alt: Old Lynxmic branding with blue linear gradient in the left, new Lynxmic branding with blue poly in the right.
+---
+2021 was the most inactive year of the YT channel Lynxmic. If in 2020, there were 53 videos (both normal videos and stream VODs) on both the main and second channels, this year there were only 25 videos (again, both normal videos and stream VODs). For the record, I stated 1 year ago that "2021 will be the year of something [for the Lynxmic project]", but at this point I can say that it was not the case after all.
+
+## More activity on YT in 2022?
+I cannot 100% guarantee anything for 2022, but however, apart of the same reason of me "being busy or lazy, etc." I invoked almost every single time when talking about my inactiveness on YouTube, one of the reasons were.... my PC. See, until recently my main PC was the Lenovo G50-70. As the computer aged, using it for video editing began to be less comfortable over time, with CPU temps reaching 90 degrees celsius. So, last November, I switched over to the Lenovo IdeaPad 3 15ITL6. For those wondering, its specs are as follows:
+
+<blockquote class="has-text-white has-background-dark">CPU: Intel Core i3 1115G4 (11th gen, Tiger Lake)<br>GPU: Intel integrated graphics<br>RAM: 4GB<br>Storage: 256GB Samsung NVMe SSD<br>OS: Windows 11 Pro RTM x64 (installed manually from USB flash drive)</blockquote>
+
+6 videos and one stream were made from the new IdeaPad so far. Until now, the CPU temps never reached over 80 degrees celsius during exporting. The max during such a heavy task was 70 on the laptop until now. I can say that in 2021, the most active period on YouTube was from the moment of switching PCs until now. In fact, I've been lately uploading more frequently.
+
+Unsurprisingly, the laptop, a 2021 machine, is faster than the G50-70, which is a 2014 machine. The 11th gen i3 performed faster than the 4th gen i5 from my G50-70, NVMe SSDs have their own benefits over SATA SSDs, and so on. You can expect more content in 2022 than in 2021, but again, I cannot guarantee anything.
+
+Other than what I said earlier regarding my G50-70, there are some other reasons why I switched to the new main PC, including problematic SSD, a broken USB port on the right side (no OS recognizes flash drives if connected to that, but OSes recognize them if they are on the left side), left hinge problems, etc.
+
+## 2021, the fourth year with a problematic 128GB SSD
+
+And yes, when I say problematic SSD, it actually is. The SATA 128GB Kingston SSD from my G50-70 has a long history of being problematic. In October 2018, a single BSOD rendered my whole Windows 10 install at that time unbootable. Tried every troubleshooting option in Recovery, none worked, so had to format the whole SSD and reinstall. In March 2019, [until August 2021][ssd], the SSD stopped working, so I was forced to use the 1TB WD HDD that was also installed on the laptop. When the SSD revived, I reinstalled Windows 10 on it for the second time, to ensure I can take advantage of the SSD capabilities until switching to my Lenovo IdeaPad 3 15ITL6. And, lastly, earlier this month, that particular Windows install also broke. Windows would boot just fine, but as soon as I reach the lock screen, it would freeze. Safe Mode boots, but then the Restarting screen immediatelly showed up. Again, nothing from Recovery worked, so I had to reinstall. Again.
+
+This time, with some little "experimenting". 2021 was the year of release of Windows 11, the first ACTUAL new Windows version in 6 years. As you may know, Windows 11 comes with new Microsoft-imposed system requirements. Thus, not only that support for Legacy boot, 32-bit CPUs was dropped, but TPM 2.0 is also a requirement, and all pre-2018 CPUs are considered incompatible. For my G50-70, the lack of a TPM chip and the presence of a 4th gen Intel CPU rendered it as an "unsupported PC" per Microsoft-imposed system requirements. Unsurprisingly, Windows 11 works just fine on my old main PC! Down below there is a YouTube video from earlier this month where you can see Windows 11 in action on the Lenovo G50-70.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/0nw_kjmjELs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+## New branding and changes to the blog
+2 years ago, I changed my online identity from solarixtech to Lynxmic, and since then I've been using the Lynxmic "L" logo (left). Until recently, because last fall the logo was changed, as shown below (right). 
+
+Furthermore, the background was switched from gradient (left) to poly (right). 2021 was also the year my second channel was renamed from LynxExtras, to Lynxmic Gold (referring to the more gold-ish color used for the channel, unlike with my main channel which uses the Lynxmic blue).
+
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="45%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}lynxmic 2021 vs 2022.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}lynxmic 2021 vs 2022.png">
+</div>
+
+This year was also just the beginning for what I call my return to blogging. If, until recently, I used Medium for this purpose, now this Jekyll-powered Lynxmic Blog is used. And while I'm here, I'll talk about some changes to this blog. Over the past month, a new Share functionality was added across all blog posts. This is however only experimental; currently you can only directly share via Twitter, but for other purposes there's a button for copying the blog post URL to the clipboard. Also, some general improvements. All links to the accounts on social media I mainly use were moved to the very bottom of the Lynxmic Blog, thus improving the reading experience on mobile. I also made some tweaks to the text across the blog, so it complies with the new Lynxmic branding guidelines.
+
+Oh, should I mention that the button to go to the old Medium-powered Lynxmic Blog was removed from the home page, since I completed, also in the past month, migrating as many as possible blog posts over to this new blog.
+
+## With all that said...
+
+To those people reading this blog post who are already in 2022, happy new year. Everyone else (including me) gotta wait some more time (for the record, it's only 16:00 on 31 December 2021 in my timezone, which is Eastern European Time (GMT+2), as I'm writing this blog post). FYI, LynxLIVE Special 2021 will begin today at 23:00 GMT+2, so stay tuned. [Link to the stream for those interested][stream].
+
+Anyways, thanks for sticking in for another year!
+
+[ssd]: https://twitter.com/Lynxmic/status/1427348043989458945
+[stream]: https://youtu.be/UZUB9AR5ogI

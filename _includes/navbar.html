@@ -1,0 +1,35 @@
+<nav class="navbar is-dark">
+  <div class="navbar-brand">
+    <a class="navbar-item has-fade-effect" href="{{ site.url }}{{ site.baseurl }}">
+      <img src="{{ site.url }}{{ site.baseurl }}{{ site.logo }}" alt="{{ site.name }}" title="Homepage" style="max-width: 100%; height: auto;">
+    </a>
+    <a role="button" class="navbar-burger has-fade-effect" data-target="navbar-blog" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbar-blog" class="navbar-menu">
+
+    <div class="navbar-start"></div>
+    <div class="navbar-end">
+      <a class="navbar-item" href="{{ site.author_youtube }}">
+        <i class="fab fa-youtube is-hidden-mobile has-fade-effect" title="YouTube"></i>
+        <p class="has-text-black is-hidden-tablet is-hidden-desktop"><i class="fab fa-youtube"></i> YouTube</p>
+      </a>
+      <a class="navbar-item" href="{{ site.author_fedi }}">
+        <i class="fab fa-mastodon is-hidden-mobile has-fade-effect" title="Mastodon/Fediverse"></i>
+        <p class="has-text-black is-hidden-tablet is-hidden-desktop"><i class="fab fa-mastodon"></i> Mastodon/Fediverse</p>
+      </a>
+      <a class="navbar-item" href="{{ site.author_discord }}">
+        <i class="fab fa-discord is-hidden-mobile has-fade-effect" title="Discord Server"></i>
+        <p class="has-text-black is-hidden-tablet is-hidden-desktop"><i class="fab fa-discord"></i> Discord Server</p>
+      </a>
+      <a class="navbar-item" href="{{ site.rss }}">
+        <i class="fa fa-rss is-hidden-mobile has-fade-effect" title="Subscribe to RSS"></i>
+        <p class="has-text-black is-hidden-tablet is-hidden-desktop"><i class="fa fa-rss"></i> Subscribe to RSS</p>
+      </a>
+    </div>
+  </div>
+</nav>

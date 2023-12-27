@@ -1,0 +1,42 @@
+---
+# Use ## to start a subheading in the blog post.
+layout: post
+title:  "BriciWorld Update (03/15/2018)"
+date: 15 March 2018
+image: sapphire v2 cover.jpg # default: placeholder.png
+alt: Sapphire bot's birdsite header as of March 2018.
+---
+Hello my fellow readers. Today we'll cover everything that happened ever since the last BriciWorld Update post, which was in christmas.
+
+## 1. Sapphire Rewrite
+As you know, Sapphire is a part of BriciStudios. This month Sapphire got rewritten, now it's different. (thanks to the developers). You can add it [here][invite].
+
+Not only that, the website is also changed, and you can found it at [sapphirebot.cf][sapphirebot].
+
+## 2. BW's Bot Plaza
+I made yet another server specially for my bots (that isn't Sapphire, Sapphire has it's support server) Each bot by me are in there with their specific support channel (without one bot). As of now it passed Sapphire's Home's member count and it has 20+ members. Do you remember when BriciWorld Lounge (BWL) was in its early days in June and it had 20+ members for a while? Do you remember when the server name was just BriciWorld? Well, for now this thing with 20+ will also happen to the server. 
+
+If you wish to join the server and give a opinion in it, [click here][server].
+
+## 3. BriciStudios Website is started.
+
+<div style="text-align: center;">
+<img class="is-hidden-mobile" width="45%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}chrome_2018-03-15_16-42-17.png">
+<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}chrome_2018-03-15_16-42-17.png">
+</div>
+
+Yes, I finally managed to code the website after a while. The website is still in construction and it may have bugs. If you have discovered a problem in the website (bricistudios.ml) don't hesitate to [join the Discord server][server2] and report it to me (BriciWorld#1434 is my Discord tag). You can check out the website [here][bricistudios] and give a opinion on it. Its code will probably be on GitHub (not sure) when it's done.
+
+## More changes that are coming...
+BriciWorld.ml Dark Mode will finally get an update to match the BriciWorld.ml's default design as of this month, also to update the links; those are outdated.
+
+I might also start to work on my other Discord bots.
+
+Now that's it for this blog post. See you next time.
+-BriciWorld
+
+[invite]: http://invite.sapphirebot.cf
+[sapphirebot]: http://sapphirebot.cf
+[server]: https://discord.gg/yyZqsh5
+[server2]: https://discord.gg/8NP6NNu
+[bricistudios]: http://bricistudios.ml/
