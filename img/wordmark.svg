@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="264.58362mm"
+   height="80.113983mm"
+   viewBox="0 0 264.58362 80.113983"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#d5dff8;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#f8e4f9;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="274.16931"
+       y1="74.142059"
+       x2="96.483528"
+       y2="74.333176"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-1.8796488e-4,-57.934757)">
+    <text
+       xml:space="preserve"
+       style="font-size:105.833px;white-space:pre;inline-size:432.023;display:inline;fill:url(#linearGradient3);fill-opacity:1;stroke-width:0.264583"
+       x="14.525096"
+       y="102.05791"
+       id="text1"
+       transform="matrix(0.78444029,0,0,0.78444029,-11.311094,38.646821)"><tspan
+         x="14.525096"
+         y="102.05791"
+         id="tspan3"><tspan
+           style="font-weight:bold;font-family:TimeBurner;-inkscape-font-specification:'TimeBurner Bold'"
+           id="tspan2">lynxmic</tspan></tspan></text>
+  </g>
+</svg>

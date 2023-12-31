@@ -2,19 +2,19 @@ baseurl: "/blog"
 domain: ""
 url: "https://lynxmic.github.io"
 name: "Lynxmic Blog"
-logo: "/img/blog logo pink.png"
-favicon: "/img/pen pink.png"
+logo: "/img/wordmark.svg"
+favicon: "/img/logotype.svg"
 image_src: "/img/postmedia/"
 rss: "feed.xml"
 paginate: 30
 paginate_path: "/:num/"
 page_excerpts: true
 timezone: Europe/Bucharest
-currentyear: "2023"
+currentyear: "2024"
 
-author_name: "Lynxmic"
-author_pic: "/img/profile.png"
-author_logo: "/img/logo.png"
+author: Lynxmic
+author_pic: "/img/logo.svg"
+author_logo: "/img/logotype.svg"
 author_gateway: "https://lynxmic.github.io"
 author_youtube: "https://youtube.com/@lynxmic"
 author_twitter: ""
