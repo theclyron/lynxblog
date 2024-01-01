@@ -3,7 +3,7 @@ domain: ""
 url: "https://lynxmic.github.io"
 name: "Lynxmic Blog"
 logo: "/img/wordmark.svg"
-favicon: "/img/logotype.svg"
+favicon: "/img/logotype.png"
 image_src: "/img/postmedia/"
 rss: "feed.xml"
 paginate: 30
