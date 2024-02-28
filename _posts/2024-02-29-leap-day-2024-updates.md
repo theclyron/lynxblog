@@ -27,7 +27,9 @@ Oh, also did I mention that there's now a new page on this blog? I essentially m
 
 In other words, videos will continue to come once or twice per month at random times, depending on time, mood and ideas. Speaking of ideas, I want to work on to brainstorm more video ideas so I can transform them into reality through the coming summer so there's something for y'all to watch, there may also be potentially more frequent streams as well.
 
-That said, I do have plans for my channel (what is it with me saying the same thing on every update blog post lmao, of course there has to be plans). Well... no guarantees, only time will tell after all. For short, any future decisions regarding the channel's schedule will be made at the right time, not now... when we're only about to enter March, which is pretty much just as bland/boring as Jan and Feb (and I only came to this realization recently).
+I might as well actually start "recycling" video ideas more and more, because nowadays there's just so little things that's haven't been done yet by this point - YouTube is a very huge video-sharing platform, nowadays there are countless videos on everything - yet my channel mostly focused on things that either haven't been done or have been done but where the videos aren't of the best quality, that's the case especially on the tech side of things.
+
+With that said, I do have plans for my channel (what is it with me saying the same thing on every update blog post lmao, of course there has to be plans). Well... no guarantees, only time will tell after all. For short, any future decisions regarding the channel's schedule will be made at the right time, not now... when we're only about to enter March, which is pretty much just as bland/boring as Jan and Feb (and I only came to this realization recently).
 
 In all honestly, yes I've been planning on having a more frequent posting/streaming schedule during the summer, although again nothing is set yet in stone.
 
