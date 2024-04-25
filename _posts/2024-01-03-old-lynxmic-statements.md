@@ -2,7 +2,7 @@
 layout: post
 title: "Old Lynxmic statements"
 date: 3 January 2024
-image: 
+image: pl.svg
 alt:
 ---
 No way, new post on this blog for the fourth day in a row? Anyway, no intro really this time, here are several of what I call "statements" from the past that I want to archive (yes, this blog was the best place I could find for this stuff)... These are all sorted from new to old, original sources vary.

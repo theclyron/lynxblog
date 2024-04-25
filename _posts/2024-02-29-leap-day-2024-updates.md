@@ -2,7 +2,7 @@
 layout: post
 title: "Leap Day 2024 Updates"
 date: 29 February 2024
-image:
+image: pl.svg
 alt:
 ---
 

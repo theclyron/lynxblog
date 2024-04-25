@@ -2,7 +2,7 @@
 layout: post
 title: "Finding a new place for my personal data archive"
 date: 2 January 2024
-image:
+image: pl.svg
 alt:
 ---
 For the past two-three months, looking to reorganize my storage, I've been adventuring on finding a reliable enough storage medium for my personal data archive, from all the existing options I have.

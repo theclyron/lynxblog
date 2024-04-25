@@ -2,7 +2,7 @@
 layout: post
 title: "A new beginning"
 date: 21 November 2021
-image:
+image: pl.svg
 alt:
 ---
 Welcome to the first post on this blog, and generally my first blog post in over 2 years!

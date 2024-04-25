@@ -18,11 +18,3 @@ source_url: "https://github.com/Lynxmic/blog"
 plugins:
   - jekyll-feed
   - jekyll-paginate
-
-defaults:
-  -
-   scope:
-     path:
-     type: "posts"
-   values:
-     image: pl.svg
