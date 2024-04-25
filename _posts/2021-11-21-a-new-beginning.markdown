@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
-title:  "A new beginning"
+title: "A new beginning"
 date: 21 November 2021
-image: default.png # default: default.png
+image:
 alt:
 ---
 Welcome to the first post on this blog, and generally my first blog post in over 2 years!

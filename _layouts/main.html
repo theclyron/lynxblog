@@ -2,15 +2,38 @@
 <html lang="en">
 <head>
   {% include head.html %}
-  <link href="{{ site.url }}/blog/css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-    {% include navbar.html %}
+  <div class="content is-align-self-center">
+    <div class="container">
+      <img class="pt-2 pb-2" title="Lynxmic" src="{{ site.url }}/{{ site.baseurl }}/img/wordmark.svg" id="logo">
+      <div class="tabs is-toggle is-centered">
+        <ul id="backbutton">
+          <li>
+            <a href="{{ site.url }}">
+              <span class="icon is-small"><i class="fas fa-chevron-left"></i></span>
+              <span>Back to lynxmic.github.io</span>
+            </a>
+          </li>
+        </ul>
+      </div>
     {{ content }}
-  <script type="text/javascript" src="{{ site.url }}/blog/js/jquery-3.3.1.min.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/navbar.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/modal.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/backtotop.js"></script>
+    </div>
+    </div>
+    <div id="snowflakes-container">
+    <div class="snowflakes" id="snowflakes" aria-hidden="true">
+      <div class="snowflake"></div>
+      <div class="snowflake"></div>
+      <div class="snowflake"></div>
+      <div class="snowflake"></div>
+      <div class="snowflake"></div>
+    </div>
+  </div>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/lightmode.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/tabs.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/holiday.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/info.js"></script>
 </body>
 </html>

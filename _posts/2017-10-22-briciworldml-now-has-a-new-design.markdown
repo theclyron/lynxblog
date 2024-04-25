@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "BriciWorld.ml now has a new design!"
 date: 22 October 2017
-image: opera_2017-10-22_11-07-58.png # default: placeholder.png
+image: opera_2017-10-22_11-07-58.png
 alt: Screenshot of BriciWorld.ml as of October 2017.
 ---
 Hello! I have changed the look of BriciWorld.ml; Now it is more modern.

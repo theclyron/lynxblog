@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Wrapping up 2022"
 date: 31 December 2022
-image: 2022.png # default: placeholder.png
+image: 2022.png
 alt: Text reading 2022, with blurred YT channel video thumbnails behind it.
 ---
 While, in real life, 2022 wasn’t as better if-not-worse than 2021, it’s the total opposite for the Lynxmic project. While 2021 was an inactive year, 2022 was entirely different for the YT channel, especially throughout the second half.
@@ -17,11 +16,7 @@ Overall, this was enough for me to start getting motivation again to make videos
 
 For other analytics, I'll let YouTube's 2022 snapshot emails speak for themselves:
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="40%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png">
-<br><p>The 2022 snapshots for my main & second channels. Data is only up to 1 December 2022.</p>
-</div>
+![The 2022 snapshots for my main & second channels. Data is only up to 1 December 2022.]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}2022 YouTube snapshot for Lynxmic and Lynxmic Gold.png){: style="max-width: 100%; height: auto;"}
 
 ## What about Lynxmic outside YT?
 Good question! Let's summarize. In July, I closed the r/Lynxmic subreddit. It was opened in 2020 as the official Lynxmic “forum” and had plans for it, though in reality I didn’t even care about the subreddit, and didn’t have any activity in it either, so it was shut down.
@@ -49,11 +44,7 @@ The mobile experience of the blog should be much better now. The previous layout
 </li>
 </ul>
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png">
-<p>Out with this awful homepage of the Lynxmic Blog that was from 2021 until now.</p>
-</div>
+![Out with this awful homepage of the Lynxmic Blog that was from 2021 until now.]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}msedge_KUG2WZeSwT.png){: style="max-width: 100%; height: auto;"}
 
 ## To conclude the last blog post of 2022...
 ...thanks for sticking in for yet another year. 2022 was indeed a "year of something" for the channel for once, hopefully I will be able to continue this project throughout next year (damn I feel old seeing that the year we're all about to enter is 2023, time definitely flies).
@@ -69,7 +60,7 @@ With all that said, this is Lynxmic signing off for the last time in 2022.
 [1]: https://wetdry.world/@lynxmic
 [2]: https://youtube.com/post/Ugkxg_2mXOt-tgoCRCngbHZCGEmWjJ82xSwj
 [3]: https://discord.io/lynxmic
-[4]: https://lynxmic.github.io/blog/2022/09/02/concluding-summer-2022-and-looking-forward-to-fall.html
+[4]: https://lynxmic.github.io/2022/09/02/concluding-summer-2022-and-looking-forward-to-fall.html
 [5]: https://youtu.be/7KmRLvHI0Gc
 [6]: https://youtu.be/fnOROCQtQbI
-[7]: https://lynxmic.github.io/blog/2021/12/31/wrapping-up-2021.html
+[7]: https://lynxmic.github.io/2021/12/31/wrapping-up-2021.html

@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Galaxy A23 5G one-month review. Why I switched"
 date: 5 March 2023
-image: a23 5g.png # default: placeholder.png
+image: a23 5g.png
 alt: Default wallpaper of the Galaxy A23 5G
 ---
 Finally, a post on this blog that isn't related to the Lynxmic brand itself, but that's besides the point. The point of this post is, I switched phones *again* after less than a year.
@@ -23,11 +22,7 @@ After all this, I updated the phone to Android 13 as it had already rolled out b
 
 What about the camera? Generally nothing special, until you look at "More".
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}a13 vs a23 camera.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}a13 vs a23 camera.png">
-<br><p>Top: A13 | Bottom: A23 5G</p><br>
-</div>
+![Top: A13 \`|`\ Bottom: A23 5G]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}a13 vs a23 camera.png){: style="max-width: 100%; height: auto;"}
 
 From here, the A13 doesn't have slow-motion and night modes. The night mode does its job relatively good enough for a mid-range device. As for slow-motion, it does its job just as well. Should note that slow-motion only supports 720p (so if you're used to 1080p recording like me, then you either have to deal with it or idk), but both modes are a welcome addition regardless.
 

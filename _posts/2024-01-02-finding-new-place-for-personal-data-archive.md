@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Finding a new place for my personal data archive"
 date: 2 January 2024
-image: default.png # default: default.png
+image:
 alt:
 ---
 For the past two-three months, looking to reorganize my storage, I've been adventuring on finding a reliable enough storage medium for my personal data archive, from all the existing options I have.
@@ -34,10 +33,7 @@ The laptop is new enough, and that's just my first rationale. Although it only h
 ## Preparing the HP laptop
 As soon as I got my hands on the HP 14s-fq0xxx, I've made a clean installation of Windows 11 (Home, because that's the edition the laptop came preinstalled with):
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}hp.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}hp.png">
-</div>
+![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}hp.png){: style="max-width: 100%; height: auto;"}
 
 As you could tell from the screenshot above, I've already installed several programs to this point, such as Ungoogled Chromium (my main browser), Speccy (open in the pic to show the PC specs), VLC & several others (yeah ik, such a clever choice to have Notepad++ as code editor, don't ask).
 

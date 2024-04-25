@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
-title:  "Wrapping up 2021"
+title: "Wrapping up 2021"
 date: 31 December 2021
-image: lynxmic%202021%20vs%202022.png # default: placeholder.png
+image: lynxmic%202021%20vs%202022.png
 alt: Old Lynxmic branding with blue linear gradient in the left, new Lynxmic branding with blue poly in the right.
 ---
 2021 was the most inactive year of the YT channel Lynxmic. If in 2020, there were 53 videos (both normal videos and stream VODs) on both the main and second channels, this year there were only 25 videos (again, both normal videos and stream VODs). For the record, I stated 1 year ago that "2021 will be the year of something [for the Lynxmic project]", but at this point I can say that it was not the case after all.
@@ -32,10 +31,7 @@ This time, with some little "experimenting". 2021 was the year of release of Win
 
 Furthermore, the background was switched from gradient (left) to poly (right). 2021 was also the year my second channel was renamed from LynxExtras, to Lynxmic Gold (referring to the more gold-ish color used for the channel, unlike with my main channel which uses the Lynxmic blue).
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="45%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}lynxmic 2021 vs 2022.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}lynxmic 2021 vs 2022.png">
-</div>
+![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}lynxmic 2021 vs 2022.png){: style="max-width: 100%; height: auto;"}
 
 This year was also just the beginning for what I call my return to blogging. If, until recently, I used Medium for this purpose, now this Jekyll-powered Lynxmic Blog is used. And while I'm here, I'll talk about some changes to this blog. Over the past month, a new Share functionality was added across all blog posts. This is however only experimental; currently you can only directly share via Twitter, but for other purposes there's a button for copying the blog post URL to the clipboard. Also, some general improvements. All links to the accounts on social media I mainly use were moved to the very bottom of the Lynxmic Blog, thus improving the reading experience on mobile. I also made some tweaks to the text across the blog, so it complies with the new Lynxmic branding guidelines.
 

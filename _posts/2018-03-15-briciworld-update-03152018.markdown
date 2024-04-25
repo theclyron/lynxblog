@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
-title:  "BriciWorld Update (03/15/2018)"
+title: "BriciWorld Update (03/15/2018)"
 date: 15 March 2018
-image: sapphire v2 cover.jpg # default: placeholder.png
+image: sapphire v2 cover.jpg
 alt: Sapphire bot's birdsite header as of March 2018.
 ---
 Hello my fellow readers. Today we'll cover everything that happened ever since the last BriciWorld Update post, which was in christmas.
@@ -19,11 +18,7 @@ I made yet another server specially for my bots (that isn't Sapphire, Sapphire h
 If you wish to join the server and give a opinion in it, [click here][server].
 
 ## 3. BriciStudios Website is started.
-
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="45%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}chrome_2018-03-15_16-42-17.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}chrome_2018-03-15_16-42-17.png">
-</div>
+![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}chrome_2018-03-15_16-42-17.png){: style="max-width: 100%; height: auto;"}
 
 Yes, I finally managed to code the website after a while. The website is still in construction and it may have bugs. If you have discovered a problem in the website (bricistudios.ml) don't hesitate to [join the Discord server][server2] and report it to me (BriciWorld#1434 is my Discord tag). You can check out the website [here][bricistudios] and give a opinion on it. Its code will probably be on GitHub (not sure) when it's done.
 

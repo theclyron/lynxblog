@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Happy New Year! What's next for Lynxmic?"
 date: 1 January 2024
-image: sofia-tang-peVJfWjr8RY-unsplash.jpg # default: default.png
+image: sofia-tang-peVJfWjr8RY-unsplash.jpg
 alt: 
 ---
 
@@ -31,10 +30,7 @@ There are now several dedicated sections: an About section (where you can learn 
 
 You can see it for yourself right now [through this link][3]. Though I'd like to note that the About section is still incomplete, more will be added later on. You can notice some changes on this blog as well, though they aren't really notable enough, it's mostly backend.
 
-<div style="text-align: center;">
-<img class="is-hidden-mobile" width="50%" height="auto" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}21.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}21.png">
-</div>
+![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}21.png){: style="max-width: 100%; height: auto;"}
 
 ## New content
 Lastly, just like I said in the previous post, expect some content to come in 2024. First off I'm hoping to finally fix the issue of lack of content on this blog (no guarantees though!) and finally come up with something to write about, anything that comes in my mind, anything that I'll be up to.

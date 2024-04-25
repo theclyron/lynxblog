@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Changes incoming to BriciWorld.ml + stuffs to say"
 date: 7 November 2017
-image: opera_2017-11-07_18-30-46.png # default: placeholder.png
+image: opera_2017-11-07_18-30-46.png
 alt: Screenshot of BriciWorld.ml with dark mode enabled, as of November 2017.
 ---
 Hey everyone,
@@ -32,10 +31,9 @@ Well, yesterday my PC/laptop had a white line, and a small part of my screen is 
 It's not a problem if the battery is dead, but this might be somewhat a big problem. 
 
 That means, soon (in 1 month, smh) that I am going to get a new laptop. It should work great at livestreaming, because when I was livestreaming on YouTube "Having fun with Windows 98 with Plus!" my laptop was lagging. and I had to just cancel the stream and not do any livestreams anymore. This is bad, because I didn't had enough RAM (<4GB) and because I had less cores and threads (see the last screenshot below):
-<div style="text-align: center;">
-<img class="is-hidden-mobile" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}Speccy_2017-11-07_19-07-15.png">
-<img class="is-hidden-widescreen" src="{{ site.url }}{{ site.baseurl }}{{ site.image_src }}Speccy_2017-11-07_19-07-15.png">
-</div>
+
+![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}Speccy_2017-11-07_19-07-15.png){: style="max-width: 100%; height: auto;"}
+
 I found that I had only 2 cores and threads from Speccy, in August. when I was about to livestream "Having fun with Windows 98 with Plus!" on YouTube.
 
 Thanks for reading and see you at the next blog post, maybe a tech blog post this time

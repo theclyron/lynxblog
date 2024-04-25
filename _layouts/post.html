@@ -1,29 +1,42 @@
 <!DOCTYPE html>
-<html lang="en" class="post">
+<html lang="en">
 <head>
   {% include head.html %}
-  <link href="{{ site.url }}/blog/css/post.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
-  {% include navbar.html %}
-  {% include metadata.html %}
-    <ul>
-      <div class="content has-fade-effect is-hidden-mobile">
-        <div class="container">
-    <p>{{ content }}</p>
-        </div>
+  <div class="content is-align-self-center">
+    <div class="container">
+      <img class="pt-2 pb-2" title="Lynxmic" src="{{ site.url }}/{{ site.baseurl }}/img/wordmark.svg" id="logo">
+      <div class="tabs is-toggle is-centered">
+        <ul id="backbutton">
+          <li>
+            <a href="{{ site.baseurl }}">
+              <span class="icon is-small"><i class="fas fa-chevron-left"></i></span>
+              <span>Back to Home</span>
+            </a>
+          </li>
+        </ul>
       </div>
-      <div class="content has-fade-effect is-hidden-tablet is-hidden-desktop mr-5 ml-5">
-        <div class="container">
-    <p>{{ content }}</p>
-        </div>
-      </div>
-    </ul>
+        <div class="box is-align-items-center has-fade-effect mb-2" id="section">
+          <p class="title" style="text-align:center;">{{ page.title }}</p>
+          <p class="subtitle" style="text-align:center;">{{ page.date | date_to_string }}</p>
+          <div id="info">
+            <p id="userAgent"></p>
+            <p id="dateTime"></p>
+            <noscript><p><i class="fas fa-circle-exclamation"></i>&nbsp;<strong>JavaScript is disabled, website may not work as intended.</strong></p></noscript>
+          </div>
+      <div id="post">
+    {{ content }}
+    </div>
+    </div>
     {% include footer.html %}
-  <script type="text/javascript" src="{{ site.url }}/blog/js/jquery-3.3.1.min.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/navbar.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/modal.js"></script>
-  <script type="text/javascript" src="{{ site.url }}/blog/js/backtotop.js"></script>
+    </div>
+    </div>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/lightmode.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/tabs.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/holiday.js"></script>
+  <script type="text/javascript" src="{{ site.url }}/{{ site.baseurl }}/js/info.js"></script>
 </body>
 </html>

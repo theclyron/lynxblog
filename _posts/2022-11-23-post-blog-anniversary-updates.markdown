@@ -1,9 +1,8 @@
 ---
-# Use ## to start a subheading in the blog post.
 layout: post
 title: "Post-blog anniversary updates"
 date: 23 November 2022
-image: default.png # default: default.png
+image:
 alt:
 ---
 This week marks this blog's one-year anniversary. First post was on 21 November 2021, just one year and two days ago (excluding every blog post before the first post, since they're all imported from a similar blog I previously operated in 2017-18 on Blogger). Hence, a year since my return to blogging (which so far turned out to focus on updates, updates and more updates and that's it). FYI, this blog was launched since I didn't want to use the Medium blog I've been active on until late 2019 again and still had.
