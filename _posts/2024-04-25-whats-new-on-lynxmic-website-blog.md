@@ -38,16 +38,17 @@ As already mentioned earlier, the website has switched from a scrollable layout 
 
 Some of the new changes from the Lynxmic Blog have been ported over to the main website as well (light mode, system info etc), just take a look for yourself ig.
 
-As always, any questions or issues you encounter on the new blog or the tabbed-layout website, open an issue on either the GitHub repository [for the main website][2] or the [blog][3], or alternatively reach out on [email][4] or on the [Discord Server][5]. I am aware of some issues, though I will try to find a fix for them eventually.
+As always, any questions or issues you encounter on the new blog or the tabbed-layout website, open an issue on either the GitHub repository [for the main website][2] or the [blog][3] (depending on case), or alternatively reach out on [email][4] or on the [Discord Server][5]. I am aware of some issues, though I will try to find a fix for them eventually.
 
 Anyways, imma head out, enjoy reading/looking around on the website whatever, I'm gone to focusing on other projects, such as keeping with this tradition I somehow made up on my channel of reviewing new Ubuntu LTS releases (24.04 LTS (Noble Numbat) just released as I'm writing this, currently downloading the .ISO rn 👀). 
 
 ![]({{ site.url }}{{ site.baseurl }}{{ site.image_src }}27.png){: style="max-width: 100%; height: auto;"}
 
-Probably this is going to be the final time I'm making one of these videos, since at this point I started caring less and less about whatever Canonical is doing with Ubuntu (and that is despite I have a dualboot with Kubuntu 22.04 LTS which I had for almost 3 months and have been lately using more frequently) but only the future tells after all. I have quite some things to say about and try for myself, soooo... yeah.
+Probably this is going to be the final time I'm making one of these videos, since at this point I started caring less and less about whatever Canonical is doing with Ubuntu (and that is despite I have a dualboot with Kubuntu 22.04 LTS which I had for almost 3 months and have been lately using more frequently) but only the future tells after all. I have quite some things to say about and try for myself, soooo... yeah. (EDIT 26/04/2024: [I gave up on this video.][6])
 
 [1]: https://lynxmic.github.io
 [2]: https://github.com/Lynxmic/lynxmic.github.io
 [3]: https://github.com/Lynxmic/blog
 [4]: mailto:thelynxmic@gmail.com?subject=[lynxmic.github.io feedback]
 [5]: https://lynxmic.github.io/discord
+[6]: https://www.youtube.com/post/UgkxmkhwR4WEf1x6AamhNzbPf8Jlw2NCQf_k
