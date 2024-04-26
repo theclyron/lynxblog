@@ -22,7 +22,7 @@ First of all, I want to highlight the new changes to the blog:
    * on slow connections, the images will show a **loading skeleton block** when not fully loaded (for now this is only on the homepage).
    * the placeholder/"default" blog post image (that appears on the homepage) has been changed **from a PNG to a SVG**, further making the blog friendly with slow internet speeds (due to the way SVGs work).
 * **Light mode has been implemented**, for people who are more comfortable with it.
-   * Dark Mode will still be default.
+   * If dark mode or light mode will be default depends on your browser/device.
    * To switch to light mode and vice-versa, just click/tap on the <i class="fas fa-moon"></i> button located in the footer.
 * Pressing the Shift key will **show system info**, such as user agent or the system date & time (this is mostly a technical/developer feature).
 * **Pagination has been fixed**, for real this time. There was a bug where it wouldn't handle more than two pages properly, this has been addressed.
