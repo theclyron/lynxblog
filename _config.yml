@@ -1,6 +1,6 @@
-baseurl: "/blog"
+baseurl: "/lynxblog"
 domain: ""
-url: "https://lynxmic.github.io"
+url: "https://sunn.is-a.dev"
 name: "Lynxmic Blog"
 logo: "/img/wordmark.svg"
 favicon: "/img/logotype.png"
@@ -13,7 +13,7 @@ timezone: Europe/Bucharest
 currentyear: "2024"
 
 author: Lynxmic
-source_url: "https://github.com/Lynxmic/blog"
+source_url: "https://github.com/sunn-ia32/lynxblog"
 
 plugins:
   - jekyll-feed
