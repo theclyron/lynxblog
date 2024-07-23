@@ -6,10 +6,10 @@ function toggleLightMode() {
 
     const logoImg = document.getElementById('logo');
  if (newMode === 'light') {
-  logoImg.src = 'https://lynxmic.github.io/blog/img/wordmark light.svg';
+  logoImg.src = 'https://sunn.is-a.dev/lynxblog/img/wordmark light.svg';
   localStorage.setItem('logoMode', 'light');
   } else {
-  logoImg.src = 'https://lynxmic.github.io/blog/img/wordmark.svg';
+  logoImg.src = 'https://sunn.is-a.dev/lynxblog/img/wordmark.svg';
   localStorage.setItem('logoMode', 'dark');
 }
 
@@ -25,7 +25,7 @@ function toggleLightMode() {
 const savedLogoMode = localStorage.getItem('logoMode');
 const logoImg = document.getElementById('logo');
 if (savedLogoMode === 'light') {
-    logoImg.src = 'https://lynxmic.github.io/blog/img/wordmark light.svg';
+    logoImg.src = 'https://sunn.is-a.dev/lynxblog/img/wordmark light.svg';
 }
   
   const toggleButton = document.querySelector('#lightModeToggle');
